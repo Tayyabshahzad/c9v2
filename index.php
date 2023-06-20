@@ -16,7 +16,7 @@
     <!-- Title  -->
     <title>IOTA Solution</title>
 
-    <!-- Favicon -->
+    <!-- Favicon --> 
     <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
 
     <!-- ====== bootstrap icons cdn ====== -->
@@ -1150,33 +1150,34 @@
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary model_show d-none" data-toggle="modal" data-target=".bd-example-modal-lg">Large modal</button>
 
-<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl modal-dialog-centered">
-    <div class="modal-content">
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/trace9.png" alt="First slide">
-      <button style="position:absolute;bottom: 44px;left: 35px;padding:4px 0;width: 14%;border: none;color: #fff;background: #8c5ff0;"> More Info </button>
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/amygdala.png" alt="Second slide">
-      <button style="position:absolute;bottom: 44px;left: 35px;padding:4px 0;width: 14%;border: none;color: #fff;background: #8c5ff0;"> More Info </button>
-    </div>
-    
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-    </div>
-  </div>
-</div>
+        <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item  active" style="text-align: center;">
+                  <a href="product-t9.php?p=t"> 
+                    <img class=" img-thumbnail img-responsive " src="assets/img/trace9.png" alt="Trace 9">
+                </a>
+                </div>
+                <div class="carousel-item"  style="text-align: center;">
+                <a href="product-amygdala.php?p=a">
+                    <img class=" img-thumbnail img-responsive " src="assets/img/amygdala.png" alt="Amygdala XDR">
+                </a>
+                </div> 
+            </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+            </div>
+        </div>
+        </div>
     <!-- ====== end footer ====== -->
 
     <!-- ====== start to top button ====== -->
