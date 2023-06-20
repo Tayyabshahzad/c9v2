@@ -32,21 +32,18 @@
                         <li class="d-flex mb-20">
                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
                             <div class="text"> <strong class="color-000"> Silver
-                                </strong> Images, videos, PDFs and audio files are
-                                supported.</div>
+                                </strong> </div>
                         </li>
                         <li class="d-flex mb-20">
                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
                             <div class="text"> <strong class="color-000">Gold
-                                </strong> Images, videos, PDFs and audio files are
-                                supported. </div>
+                                </strong>  </div>
                         </li>
 
                         <li class="d-flex mb-20">
                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
                             <div class="text"> <strong class="color-000">Platinum
-                                </strong> Images, videos, PDFs and audio files are
-                                supported. </div>
+                                </strong>   </div>
                         </li>
                     </ul>
                 </div>
