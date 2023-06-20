@@ -68,9 +68,6 @@
             border-color: #1e90ff;
             color:#fff;
         }
-        .top-navbar.style-4{
-            padding:10px 15px 14px;
-        }
     </style>
 
 </head>

@@ -152,6 +152,10 @@
         .solutions.style-10 .solution-card{
             min-height: 5em;
         }
+        .inf_content p{
+            text-transform:none!important;
+        
+        }
     </style>
 
 </head>
