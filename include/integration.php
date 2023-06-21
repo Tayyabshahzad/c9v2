@@ -14,7 +14,7 @@
                                 <div class="info mt-30"> 
                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                            <span> Overview </span>   
+                                             Overview 
                                         </h2>
                                     </div>
                                 </div>
@@ -35,7 +35,7 @@
             <div class="section-head  text-center"> 
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                        Benefits  
                     </h2>
                 </div> 
                 <p style="padding:0 10em">
@@ -55,7 +55,7 @@
                                 <div class="inf_content"> 
                                    <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="" style="font-size: 1.2em;"> 
-                                            <span> Value Chain Monitoring  </span>   
+                                             Value Chain Monitoring   
                                         </h2>
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@
                                     <th colspan='2'>  
                                             <div class="section-head style-4"> 
                                                 <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                    <span>  Technology Supported </span>  , Protocols, Devices  
+                                                      Technology Supported   , Protocols, Devices  
                                                 </h2>
                                             </div>
                                     </th>

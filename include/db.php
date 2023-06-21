@@ -4,7 +4,7 @@
                                                 <div class="content text-left">
                                                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                     <h2 class="mb-10" style="font-size:2em;"> 
-                                                        <span> DB Monitoring  </span>   
+                                                        DB<span>  Monitoring  </span>   
                                                     </h2>
                                                 </div> 
                                                     <div class="about-cards border-bottom brd-gray">
@@ -37,7 +37,7 @@
                                                                             <div class="col-lg-12">
                                                                             <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-20" style="font-size: 1.5em;"> 
-                                                                                <span> Features </span>   
+                                                                                 Features 
                                                                             </h2>
                                                                             <p class="mb-4">
                                                                             Here are some features of Trace9 4.0 database monitoring: 
@@ -150,7 +150,7 @@
         
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                          Benefits  
                     </h2>
                 </div>
                
@@ -247,7 +247,7 @@
                                             <th colspan='5'>  
                                                  <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                        <span>  Technology Supported </span>  , Protocols, Devices  
+                                                          Technology Supported    , Protocols, Devices  
                                                     </h2>
                                                 </div>
                                             </th>
@@ -292,7 +292,7 @@
                     <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                         <div class="col-lg-12">
                             <div class="section-head style-4"> 
-                                <h2 class="mb-20" style="font-size: 1.5em;"> <span> Module   </span>Dependency </h2>
+                                <h2 class="mb-20" style="font-size: 1.5em;">  Module   Dependency </h2>
                             </div>
                             <p class="text mb-40">
                                 Some common dependencies for Trace9 4.0 database monitoring might include:  
@@ -338,7 +338,7 @@
                                         <div class="col-lg-12">
                                             <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                             <h2 class="mb-20" style="font-size: 1.5em;"> 
-                                                <span> Scalability </span>   
+                                                  Scalability    
                                             </h2>
                                             <p class="mb-4">
                                             Here are some ways to ensure scalability for Trace9 4.0 database monitoring: 
@@ -389,7 +389,7 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <div class="  mb-0 fw-bold">
+                                            <div class="  mb-20 fw-bold">
                                                 <div
                                                     class="icon-20 d-inline-flex justify-content-center align-items-center rounded-circle overflow-hidden bg-blue5 text-white flex-shrink-0 me-3">
                                                     <i class="bi bi-check"></i>
@@ -422,8 +422,8 @@
 
                             </div>
                         </div>
-                        <div class="col-lg-5 col-sm-12 info">
-                                                Dashboard
+                        <div class="col-lg-5 col-sm-12 info pt-50"><br>
+                        <img src="assets/img/dashboards/db-monitoring.png" class="mt-50 img-thumbnail" alt="">
                         </div>
                     </div>
                     </div>

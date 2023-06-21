@@ -4,7 +4,7 @@
             <div class="content text-left">
             <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                 <h2 class="mb-10" style="font-size:2em;"> 
-                    <span>Machine Learning – Module & Logs Mang </span>   
+                    <span>Machine Learning </span>   -  Module & Logs Mang 
                 </h2>
             </div> 
                 <div class="about-cards border-bottom brd-gray">
@@ -15,7 +15,7 @@
                                         
                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                            <span> Overview </span>   
+                                             Overview    
                                         </h2>
                                     </div>
                                 </div>
@@ -33,7 +33,7 @@
                                 <div class="info"> 
                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                            <span> Features </span>   
+                                            Features  
                                         </h2>
                                     </div>
 
@@ -71,7 +71,7 @@
             <div class="section-head  text-center"> 
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                          Benefits  
                     </h2>
                 </div> 
                 
@@ -181,7 +181,7 @@
                                     <th colspan='3'>  
                                             <div class="section-head style-4"> 
                                                 <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                    <span>  Technology Supported </span>  , Protocols, Devices  
+                                                     Technology Supported    , Protocols, Devices  
                                                 </h2>
                                             </div>
                                     </th>
@@ -316,7 +316,7 @@
                 <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                     <div class="col-lg-12">
                         <div class="section-head style-4"> 
-                            <h2 class="mb-30" style="font-size: 1.5em;"> <span> Scalability </span> </h2>
+                            <h2 class="mb-30" style="font-size: 1.5em;">   Scalability   </h2>
                         </div>
                         <p class="text mb-40">
                         To address scalability challenges, several techniques and technologies can be used, such as: 
@@ -342,6 +342,9 @@
                                 <strong class="color-000">Automated Machine Learning (AutoML) </strong> AutoML tools can automatically identify the best ML models for a given dataset, reducing the need for manual intervention and enabling faster model development.  
                         </p> 
                     </div> 
+                    <div class="col-lg-12 text-center mb-20 mt-20">
+                            <img src="assets/img/dashboards/machine-learning-module.png" class="img-thumbnail" alt="">
+                        </div> 
                 </div>
             </div>
         </div>

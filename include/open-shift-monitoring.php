@@ -15,7 +15,7 @@
                                                                          
                                                                         <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                                                                <span> Overview </span>   
+                                                                                   Overview   
                                                                             </h2>
                                                                         </div>
                                                                     </div>
@@ -32,7 +32,7 @@
                                                                     <div class="color-000 mt-20">
                                                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-20" style="font-size: 1.5em;"> 
-                                                                                <span> Features </span>   
+                                                                                 Features 
                                                                             </h2>
                                                                         </div>
                                                                         <p class="mb-4 mt-2">
@@ -132,7 +132,7 @@
         
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                          Benefits  
                     </h2>
                 </div>
                
@@ -198,11 +198,11 @@
                     <div class="col-lg-12">
                         <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                             <table class="table" style="width:100%">
-                                <tr class="text-center">
+                                <tr class="text-left">
                                     <th colspan='3'>  
                                             <div class="section-head style-4"> 
                                             <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                            Technology   <span> Supported </span>    
+                                            Technology   Supported     
                                             </h2>
                                         </div>
                                     </th>
@@ -212,7 +212,7 @@
                                     Openshift clusters of all sizes and configurations 
                                     </th>
                                 </tr>
-                                <tr class="text-center">>
+                                <tr class="text-center">
                                     <th>
                                     Linux-based environments                            
                                     </th> 
@@ -224,11 +224,11 @@
                     <div class="col-lg-12">
                         <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                             <table class="table" style="width:100%">
-                                <tr class="text-center">
+                                <tr class="text-left">
                                     <th colspan='3'>  
                                             <div class="section-head style-4"> 
                                             <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                            Protocols    <span> Supported </span>    
+                                            Protocols      Supported    
                                             </h2>
                                         </div>
                                     </th>
@@ -244,7 +244,7 @@
                                      oc cli commands for collecting metrics                     
                                     </th> 
                                 </tr>
-                                <tr class="text-center">>
+                                <tr class="text-center">
                                    
                                 </tr>
                             </table>
@@ -254,11 +254,11 @@
                     <div class="col-lg-12">
                         <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                             <table class="table" style="width:100%">
-                                <tr class="text-center">
+                                <tr class="text-left">
                                     <th colspan='6'>  
                                             <div class="section-head style-4"> 
                                             <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                            Devices    <span> Supported </span>    
+                                            Devices     Supported    
                                             </h2>
                                         </div>
                                     </th>
@@ -310,11 +310,11 @@
                     <div class="col-lg-12">
                         <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                             <table class="table" style="width:100%">
-                                <tr class="text-center">
+                                <tr class="text-left">
                                     <th colspan='7'>  
                                             <div class="section-head style-4"> 
                                             <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                            Module    <span> Dependency </span>    
+                                            Module      Dependency 
                                             </h2>
                                         </div>
                                     </th>
@@ -368,11 +368,11 @@
                     <div class="col-lg-12">
                         <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                             <table class="table" style="width:100%">
-                                <tr class="text-center">
+                                <tr class="text-left">
                                     <th>  
                                             <div class="section-head style-4"> 
                                             <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                 IP/Ports  <span> Requirements </span>    
+                                                 IP/Ports   Requirements  
                                             </h2>
                                         </div>
                                     </th>
@@ -402,7 +402,7 @@
                     <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                         <div class="col-lg-12">
                             <div class="section-head style-4"> 
-                                <h2 class="mb-30" style="font-size: 1.5em;"> <span> Moreover </span> </h2>
+                                <h2 class="mb-30" style="font-size: 1.5em;">   Moreover   </h2>
                             </div>
                             
                              
@@ -417,28 +417,28 @@
                                  <strong class="color-000">Customizable metrics collection through use of "oc" cli  </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Upcoming feature to utilize daemonsets for metrics collection <strong>  
+                                <strong class="color-000">Upcoming feature to utilize daemonsets for metrics collection </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Actively monitor the full stack of your applications and services running on open stack   <strong>  
+                                <strong class="color-000">Actively monitor the full stack of your applications and services running on open stack   </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Monitor the performance of your entire IT with Trace9 OSM   <strong>  
+                                <strong class="color-000">Monitor the performance of your entire IT with Trace9 OSM   </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Know the status of all open stack instance in real time   <strong>  
+                                <strong class="color-000">Know the status of all open stack instance in real time   </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Trace9 open stack monitoring provides real-time insights into resource utilization, open stack services, availability, and log files.   <strong>  
+                                <strong class="color-000">Trace9 open stack monitoring provides real-time insights into resource utilization, open stack services, availability, and log files.   </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Check the availability of all connected Assets & Resources   <strong>  
+                                <strong class="color-000">Check the availability of all connected Assets & Resources   </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Provides unlimited potential for customization and cost savings offerings   <strong>  
+                                <strong class="color-000">Provides unlimited potential for customization and cost savings offerings   </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                <strong class="color-000">Identify your assets and keep a check on your IT resources with thresholds and alerts  <strong>  
+                                <strong class="color-000">Identify your assets and keep a check on your IT resources with thresholds and alerts  </strong>  
                             </p>
                             
                         </div> 
@@ -453,13 +453,15 @@
                     <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                         <div class="col-lg-12">
                             <div class="section-head style-4"> 
-                                <h2 class="mb-30" style="font-size: 1.5em;"> <span> Scalability </span> </h2>
+                                <h2 class="mb-30" style="font-size: 1.5em;">  Scalability  </h2>
                             </div>
                             <p class="text mb-40" style="font-weight:normal">
                             The Openshift Monitoring Module for Trace9 is highly scalable, as it is designed to monitor multiple Openshift clusters. It can handle an increasing number of resources and clusters without compromising performance. 
-                            </p>
-                             
-                            
+                            </p> 
+                        </div> 
+
+                        <div class="col-lg-12">
+                            <img src="assets/img/dashboards/open-shift-monitoring.png" class="img-thumbnail" alt="">
                         </div> 
                     </div>
                 </div>

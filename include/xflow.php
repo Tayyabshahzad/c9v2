@@ -15,7 +15,7 @@
                                                                          
                                                                         <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                                                                <span> Overview </span>   
+                                                                                 Overview 
                                                                             </h2>
                                                                         </div>
                                                                     </div>
@@ -37,7 +37,7 @@
                                                                     <div class="info"> 
                                                                         <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                                                                <span> Features </span>   
+                                                                                 Features 
                                                                             </h2>
                                                                         </div>
 
@@ -88,7 +88,7 @@
         
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                        Benefits 
                     </h2>
                 </div>
                
@@ -229,7 +229,7 @@
                     <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                         <div class="col-lg-12">
                             <div class="section-head style-4"> 
-                                <h2 class="mb-30" style="font-size: 1.5em;"> <span> Scalability </span> </h2>
+                                <h2 class="mb-30" style="font-size: 1.5em;">   Scalability   </h2>
                             </div>
                             <p class="text mb-40">
                             The scalability of Trace9 4.0 XFlow monitoring depends on several factors, including the size of the network, the number of devices on the network, the volume of traffic, and the complexity of the network protocols.  
@@ -240,6 +240,11 @@
                             </p>
                             
                         </div> 
+                        <div class="col-lg-12">
+                            <div class="img mb-30 mt-30 mb-lg-0 text-center">
+                                <img src="assets/img/dashboards/xFlow-monitoring.png" class="img-thumbnail" alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
