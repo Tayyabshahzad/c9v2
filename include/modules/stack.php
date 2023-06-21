@@ -167,7 +167,7 @@
             <div class="col-lg-12">
                 <h3 class="text-capitalize mb-20 mt-20"> Dashboards </h3>
                 <p>
-                    PHOTO 
+                    NA 
                 </p> 
             </div>
         </div>

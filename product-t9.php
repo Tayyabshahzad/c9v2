@@ -8136,13 +8136,13 @@
                                                                 </div>
                                                                 <div class="info" style="padding:0">
                                                                     <h5 class="card-title">
-                                                                        Store Hours and Vacation
+                                                                        Trace9 4.0 Battlecard <br/>  <br/>  
                                                                     </h5>
                                                                     <div class="btns text-center mt-10">
-                                                                        <a href="#0"
+                                                                        <a href="assets/documents/t9/Trace9Battlecard.pdf" download="Trace9 4.0 Battlecard.pdf"
                                                                             class="btn btn-icon-circle rounded-pill bg-blue7 fw-bold text-white me-4 mb-4 mb-lg-0">
                                                                             <small>
-                                                                                Learn More <i
+                                                                                Download <i
                                                                                     class="fas fa-download"></i>
                                                                             </small>
                                                                         </a>
@@ -8156,17 +8156,17 @@
                                                             <a href="#" class="features-card  style-5"
                                                                 style="padding-top:0">
                                                                 <div class="icon">
-                                                                    <img src="assets/img/documents/016-word.png" alt="">
+                                                                    <img src="assets/img/documents/015-pdf.png" alt="">
                                                                 </div>
                                                                 <div class="info" style="padding:0">
                                                                     <h5 class="card-title">
-                                                                        Store Hours and Vacation
+                                                                        Trace9 4.0 Brochure  <br/>  <br/>  
                                                                     </h5>
                                                                     <div class="btns text-center mt-10">
-                                                                        <a href="#0"
+                                                                    <a href="assets/documents/t9/Trace9Brochure.pdf" download="Trace9 4.0 Brochure.pdf"
                                                                             class="btn btn-icon-circle rounded-pill bg-blue7 fw-bold text-white me-4 mb-4 mb-lg-0">
                                                                             <small>
-                                                                                Learn More <i
+                                                                            Download <i
                                                                                     class="fas fa-download"></i>
                                                                             </small>
                                                                         </a>
@@ -8180,18 +8180,18 @@
                                                             <a href="#" class="features-card  style-5"
                                                                 style="padding-top:0">
                                                                 <div class="icon">
-                                                                    <img src="assets/img/documents/018-sheets.png"
+                                                                    <img src="assets/img/documents/015-pdf.png"
                                                                         alt="">
                                                                 </div>
                                                                 <div class="info" style="padding:0">
                                                                     <h5 class="card-title">
-                                                                        Store Hours and Vacation
+                                                                        Trace9 4.0 Licensing Datasheet 
                                                                     </h5>
                                                                     <div class="btns text-center mt-10">
-                                                                        <a href="#0"
+                                                                    <a href="assets/documents/t9/Trace9LicensingDatasheet.pdf" download="Trace9 4.0 Licensing Datasheet.pdf"
                                                                             class="btn btn-icon-circle rounded-pill bg-blue7 fw-bold text-white me-4 mb-4 mb-lg-0">
                                                                             <small>
-                                                                                Learn More <i
+                                                                            Download <i
                                                                                     class="fas fa-download"></i>
                                                                             </small>
                                                                         </a>
@@ -8206,17 +8206,17 @@
                                                             <a href="#" class="features-card  style-5"
                                                                 style="padding-top:0">
                                                                 <div class="icon">
-                                                                    <img src="assets/img/documents/019-jpg.png" alt="">
+                                                                    <img src="assets/img/documents/015-pdf.png" alt="">
                                                                 </div>
                                                                 <div class="info" style="padding:0">
                                                                     <h5 class="card-title">
-                                                                        Store Hours and Vacation
+                                                                        Trace9 4.0 Technical Datasheet 
                                                                     </h5>
                                                                     <div class="btns text-center mt-10">
-                                                                        <a href="#0"
+                                                                        <a href="assets/documents/t9/Trace9TechnicalDatasheet.pdf" download=" Trace9 4.0 Technical Datasheet.pdf"
                                                                             class="btn btn-icon-circle rounded-pill bg-blue7 fw-bold text-white me-4 mb-4 mb-lg-0">
                                                                             <small>
-                                                                                Learn More <i
+                                                                            Download <i
                                                                                     class="fas fa-download"></i>
                                                                             </small>
                                                                         </a>

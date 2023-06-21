@@ -28,7 +28,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/001-ip-address.png" alt="">
+                                        <img src="assets/img/product/amygdala/001-ip-address.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -43,7 +43,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/002-browser.png" alt="">
+                                        <img src="assets/img/product/amygdala/002-browser.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -58,7 +58,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/003-banned.png" alt="">
+                                        <img src="assets/img/product/amygdala/003-banned.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -74,7 +74,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/004-script.png" alt="">
+                                        <img src="assets/img/product/amygdala/004-script.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -90,7 +90,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/005-alert.png" alt="">
+                                        <img src="assets/img/product/amygdala/005-alert.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -122,7 +122,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/006-engineering.png" alt="">
+                                        <img src="assets/img/product/amygdala/006-engineering.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -138,7 +138,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/007-toggles.png" alt="">
+                                        <img src="assets/img/product/amygdala/007-toggles.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -155,7 +155,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/008-ai.png" alt="">
+                                        <img src="assets/img/product/amygdala/008-ai.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -173,7 +173,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/009-checklist.png" alt="">
+                                        <img src="assets/img/product/amygdala/009-checklist.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -191,7 +191,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-2">
                                     <div class="icon mb-3 mb-lg-0">
-                                        <img src="assets/img/product/Amygdala XDR/010-expand.png" alt="">
+                                        <img src="assets/img/product/amygdala/010-expand.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-10">
@@ -233,7 +233,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/011-system-integration.png" alt="">
+                                    <img src="assets/img/product/amygdala/011-system-integration.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -248,7 +248,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/012-local-area-network.png" alt="">
+                                    <img src="assets/img/product/amygdala/012-local-area-network.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -264,7 +264,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/013-cloud-service.png" alt="">
+                                    <img src="assets/img/product/amygdala/013-cloud-service.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -283,7 +283,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/014-database-storage.png" alt="">
+                                    <img src="assets/img/product/amygdala/014-database-storage.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -302,7 +302,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/015-protocol.png" alt="">
+                                    <img src="assets/img/product/amygdala/015-protocol.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -428,15 +428,10 @@
                 </div>
             </div>
         </div>
+        
         <div class="col-lg-12">
-            <h3 class="text-capitalize mb-20 mt-20"> Scalability </h3>
-            <p>
-                N/A
-            </p>
-        </div>
-        <div class="col-lg-12">
-            <p>
-                Dashboards
+            <p class="pb-50 mt-20 mb-20 text-center">
+                <img src="assets/img/dashboards/amygdala/active-response.png" class="img-thumbnail"  alt="">
             </p>
         </div>
     </div>

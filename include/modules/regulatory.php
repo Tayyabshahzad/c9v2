@@ -292,8 +292,8 @@
             </div>
             <div class="col-lg-12">
                 <h3 class="text-capitalize mb-20 mt-20"> Dashboards </h3>
-                <p>
-                    PHOTO 
+                <p class="pb-50 mt-20 mb-20 text-center">
+                        <img src="assets/img/dashboards/amygdala/regulatory-compliance.png" class="img-thumbnail"  alt="">
                 </p> 
             </div>
         </div>

@@ -4,7 +4,7 @@
             <div class="section-head style-3  align-items-center" style="margin-top:90px;">
                 <div class="info">
                     <div class="section-head style-4 mb-20">
-                        <h2 class=""> <span> Log </span> data analysis</h2>
+                        <h2 class=""> <span> Log </span> Data Analysis</h2>
                     </div>
                 </div>
                 <p class="mt-4">
@@ -25,7 +25,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/001-data-collection.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/001-data-collection.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -39,7 +39,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/002-time-management.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/002-time-management.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -52,7 +52,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/003-technology.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/003-technology.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -153,7 +153,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/004-online-activity.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/004-online-activity.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -166,7 +166,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/005-api.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/005-api.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -179,7 +179,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/006-index.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/006-index.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -194,7 +194,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/006-index.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/006-index.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -209,7 +209,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/007-logs.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/007-logs.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -225,7 +225,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/008-pattern.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/008-pattern.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -241,7 +241,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/009-radar.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/009-radar.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -257,7 +257,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/010-change.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/010-change.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -284,7 +284,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                    <img src="assets/img/product/Amygdala XDR/log-data/011-index-1.png" alt="">
+                                    <img src="assets/img/product/amygdala/log-data/011-index-1.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -297,7 +297,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/012-log.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/012-log.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -310,7 +310,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/013-dashboard.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/013-dashboard.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -325,7 +325,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/014-layout.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/014-layout.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -340,7 +340,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/015-log-1.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/015-log-1.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -356,7 +356,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/016-open.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/016-open.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -372,7 +372,7 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="icon mb-3 mb-lg-0">
-                                <img src="assets/img/product/Amygdala XDR/log-data/suricata.png" alt="">
+                                <img src="assets/img/product/amygdala/log-data/suricata.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-10">
@@ -405,8 +405,8 @@ Overall, Amygdala XDR's log data analysis module provides a powerful way to mana
             </div>
             <div class="col-lg-12 mt-30">
                 <div class="main-info">
-                    <p class="mb-10 text-danger">
-                        PHOTO
+                    <p class="mb-10 text-center"> 
+                        <img src="assets/img/dashboards/amygdala/log-data.png" class="img-thumbnail"  alt="">
                     </p>
 
                 </div>

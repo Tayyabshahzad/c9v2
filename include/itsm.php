@@ -379,10 +379,7 @@
                                 Some ITSM platforms have limits on the number of API calls or data processing that can
                                 be performed within a certain period. It's important to ensure that these limits are not
                                 exceeded, and that the integration can handle the volume of data being processed.
-                            </p>
-
-
-
+                            </p> 
 
                         </div>
                     </div>

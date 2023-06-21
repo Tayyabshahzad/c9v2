@@ -4,7 +4,7 @@
             <div class="section-head style-3  align-items-center" style="margin-top:90px;">
                 <div class="info">
                     <div class="section-head style-4 mb-20">
-                        <h2 class=""> File <span> integrity </span> monitoring </h2>
+                        <h2 class=""> File <span> Integrity </span> Monitoring </h2>
                     </div>
                 </div>
                 <p class="mt-4">
@@ -321,13 +321,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <h3 class="text-capitalize mb-20"> Scalability </h3>
-            <p class="mb-10 text-danger">
-                NA
-            </p>
-            <p class="pb-50">
-                Dashboard PHOTO
+            </div> 
+            <p class="pb-50 mt-20 mb-20">
+                <img src="assets/img/dashboards/amygdala/file-integrity-monitoring.png" class="img-thumbnail"  alt="">
             </p>
         </div>
     </div>

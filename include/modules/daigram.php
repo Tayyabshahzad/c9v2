@@ -9,7 +9,9 @@
                     </div>
                 </div>
                 <div class="icon mb-3 mb-lg-0">
-                          <img src="assets/img/banners/diagram.png" alt="">
+                    <p class="pb-50 mt-20 mb-20 text-center">
+                        <img src="assets/img/dashboards/amygdala/deployment-diagram.png" class="img-thumbnail"  alt="">
+                     </p> 
                 </div> 
             </div>
         </div> 
