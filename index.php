@@ -283,7 +283,7 @@
             </div>
         </section>
 
-        <section class="about style-4" style="">
+        <section class="about style-4">
             <div class="content frs-content" id="about" data-scroll-index="2">
                 <div class="container">
                     <div class="row align-items-center justify-content-between">
