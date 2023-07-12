@@ -16,7 +16,7 @@
     <!-- Title  -->
     <title>IOTA Solution</title>
 
-    <!-- Favicon -->
+    <!-- Favicon --> 
     <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
 
     <!-- ====== bootstrap icons cdn ====== -->

@@ -68,6 +68,9 @@
             border-color: #1e90ff;
             color:#fff;
         }
+        .top-navbar.style-4{
+            padding:10px 15px 14px;
+        }
     </style>
 
 </head>
@@ -78,12 +81,12 @@
     <!-- <div id="preloader">
     </div> -->
     <!-- ---------- loader ---------- -->
-    <div id="preloader">
+    <!-- <div id="preloader">
         <div id="loading-wrapper" class="show">
             <div id="loading-text"> <img src="assets/img/IOTA-LOGO-white-BG.svg" alt=""> </div>
             <div id="loading-content"></div>
         </div>
-    </div>
+    </div> -->
     <!-- ====== end loading page ====== -->
 
     <!-- ====== start top navbar ====== -->

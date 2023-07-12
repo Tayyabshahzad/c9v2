@@ -2,16 +2,24 @@
                                             <div class="container"
                                                 style="background-image: url('assets/img/single_project/bubbls.png');">
                                                 <div class="content text-left">
-                                                    <h1 class="color-000 mb-20">Network Performance Monitoring NPM</h1>
+                                                    <div class="col-lg-12 text-left">
+                                                        <div class="info">
+                                                            <div class="section-head style-4" style="margin-bottom:2em;">
+                                                                <h2 class=""> <span> Network Performance Monitoring </span> NPM</h2>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                   
                                                     <div class="about-cards border-bottom brd-gray">
                                                         <div class="row">
                                                             <div class="col-lg-12 col-sm-12 info">
                                                                 <div class="about-card mb-30 mb-lg-0  lh-4">
-                                                                    <div class="info mt-30">
-                                                                        <h5 class="lh-4">
-                                                                            Overview
-                                                                        </h5>
-                                                                    </div>
+                                                                    <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
+                                                                        <h2 class="mb-10 mt-30" style="font-size: 1.5em;"> 
+                                                                        Overview
+                                                                        </h2>
+                                                                    </div>  
+                                                                    
                                                                     <p class="mb-2 mt-2">
                                                                         Trace9 4.0 monitoring solution monitors the
                                                                         performance of your networks, identify, and
@@ -37,12 +45,12 @@
                                                         </div>
                                                         <div class="row">
                                                             <div class="col-lg-12 col-sm-12 info">
-                                                                <div class="about-card mb-30 mb-lg-0  lh-4">
-                                                                    <div class="info mt-30">
-                                                                        <h5 class="lh-4">
-                                                                            Benefits 
-                                                                        </h5>
-                                                                    </div>
+                                                                <div class="about-card mb-30 mb-lg-0  lh-4"> 
+                                                                    <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
+                                                                        <h2 class="mb-10 mt-30" style="font-size: 1.5em;"> 
+                                                                            Benefits
+                                                                        </h2>
+                                                                    </div>  
                                                                     <p class=" mt-2">
                                                                         The key features of Network Performance
                                                                         Monitoring include:
@@ -143,13 +151,12 @@
 
                                                         <div class="row">
                                                             <div class="col-lg-12 col-sm-12 info">
-                                                                <div class="about-card mb-30 mb-lg-0  lh-4">
-                                                                    <div class="info">
-                                                                        <h5 class="lh-4">
+                                                                <div class="about-card mb-30 mb-lg-0  lh-4"> 
+                                                                    <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
+                                                                        <h2 class="mb-10 mt-30" style="font-size: 1.5em;"> 
                                                                             Features
-                                                                        </h5>
-
-                                                                    </div>
+                                                                        </h2>
+                                                                    </div>  
                                                                     <p class="mb-2 mt-2">
                                                                         The key features of Network Performance
                                                                         Monitoring include:
@@ -270,16 +277,15 @@
                                                                         <div class="content frs-content" style="padding:0">
                                                                             <div class="container">
                                                                                 <div  class="row align-items-center justify-content-between">
-                                                                                    <div class="col-lg-6">
+                                                                                    <div class="col-lg-4">
                                                                                         <div class="img mb-30 mb-lg-0">
-                                                                                            <img src="assets/img/about/ipad.png"
-                                                                                                alt="">
+                                                                                            <img src="assets/img/dashboards/npm.png" class="img-thumbnail" alt="">
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div class="col-lg-5">
+                                                                                    <div class="col-lg-8">
                                                                                         <div class="info">
                                                                                         <div class="section-head style-4"> 
-                                                                                     <h2 class="mb-30"> <span> Scalability </span> </h2>
+                                                                                     <h2 class="mb-30">   Scalability   </h2>
                                                                                         </div>
                                                                                              
                                                                                             <p class="text mb-40">

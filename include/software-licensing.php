@@ -15,7 +15,7 @@
                                         
                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                            <span> Overview </span>   
+                                              Overview   
                                         </h2>
                                     </div>
                                 </div>
@@ -105,7 +105,7 @@
                                 <div class="info"> 
                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                            <span> Features </span>   
+                                             Features  
                                         </h2>
                                     </div> 
                                 </div>
@@ -221,6 +221,9 @@
                                             </h2> 
                             </div>
                         </div>
+                        <div class="col-lg-12">
+                            <img src="assets/img/dashboards/trace9-architecture-diagram.png" class="img-thumbnail" alt="">
+                        </div> 
                     </div> 
                     
 

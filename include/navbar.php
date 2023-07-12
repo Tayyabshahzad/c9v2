@@ -39,25 +39,26 @@
                     </li>
 
                
+               
                 <li class="nav-item">
-                    <a class="nav-link" href="about.php" >
-                        About
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="services.php" >
+                    <a class="nav-link" href="services.php">
                         Services
                     </a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="comming-soon.php" >
+                    <a class="nav-link" href="comming-soon.php">
                         Software Licensing  Portal
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link"href="comming-soon.php" >
+                    <a class="nav-link"href="comming-soon.php">
                        Partner Portal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.php" >
+                        About
                     </a>
                 </li>
                 <li class="nav-item">

@@ -411,7 +411,7 @@
             <div class="col-lg-12 mt-30">
                 <div class="main-info">
                     <p class="mb-10 text-danger">
-                        PHOTO
+                    NA
                     </p>
 
                 </div>

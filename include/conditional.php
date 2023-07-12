@@ -15,7 +15,7 @@
                                                                          
                                                                         <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                                                                <span> Overview </span>   
+                                                                                  Overview  
                                                                             </h2>
                                                                         </div>
                                                                     </div>
@@ -37,14 +37,14 @@
                                                                         <div class="row">
                                                                         <div class="section-head style-4 wow fadeInUp"       style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-20" style="font-size: 1.5em;"> 
-                                                                                <span> Features </span>   
+                                                                                  Features 
                                                                             </h2>
                                                                             <p class="mb-4">
                                                                             Here are some of the features of Trace9 4.0 Conditional, Correlation, Value chain Monitoring: 
                                                                             </p>
 
                                                                             <h2 class="mb-20" style="font-size: 1em;"> 
-                                                                                <span> Conditional Monitoring </span>   
+                                                                                 Conditional Monitoring 
                                                                             </h2> 
                                                                         </div>
                                                                             <div class="col-lg-6">
@@ -101,7 +101,7 @@
                                                                             
 
                                                                             <h2 class="mb-20" style="font-size: 1em;"> 
-                                                                                <span>Correlation Monitoring </span>   
+                                                                                 Correlation Monitoring   
                                                                             </h2> 
                                                                         </div>
                                                                             <div class="col-lg-6">
@@ -170,7 +170,7 @@
         
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                          Benefits  
                     </h2>
                 </div>
                
@@ -186,7 +186,7 @@
                                 <div class="inf_content">  
                                    <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="" style="font-size: 1.2em;"> 
-                                            <span> Conditional Monitoring </span>   
+                                              Conditional Monitoring  
                                         </h2>
                                     </div>
                                 </div>
@@ -237,7 +237,7 @@
                                 <div class="inf_content"> 
                                    <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                         <h2 class="" style="font-size: 1.2em;"> 
-                                            <span> Correlation Monitoring  </span>   
+                                             Correlation Monitoring  
                                         </h2>
                                     </div>
                                 </div>

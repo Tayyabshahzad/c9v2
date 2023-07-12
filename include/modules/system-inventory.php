@@ -5,7 +5,7 @@
                                                     style="margin-top:90px;">
                                                     <div class="info">
                                                         <div class="section-head style-4 mb-20">  
-                                                            <h2 class=""> System <span> inventory  </span>   </h2>
+                                                            <h2 class=""> System <span> Inventory  </span>   </h2>
                                                         </div>
                                                     </div>
                                                     <p class="mt-4 "> 
@@ -33,7 +33,7 @@
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
                                                                         <img 
-                                                                        src="assets/img/product/Amygdala XDR/system-inventory/016-automation.png" alt="">
+                                                                        src="assets/img/product/amygdala/system-inventory/016-automation.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -46,7 +46,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                        <img src="assets/img/product/Amygdala XDR/system-inventory/017-tracking.png" alt="">
+                                                                        <img src="assets/img/product/amygdala/system-inventory/017-tracking.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -59,7 +59,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                    <img src="assets/img/product/Amygdala XDR/system-inventory/018-monitoring.png" alt="">
+                                                                    <img src="assets/img/product/amygdala/system-inventory/018-monitoring.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -76,7 +76,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                    <img src="assets/img/product/Amygdala XDR/system-inventory/019-integration.png" alt="">
+                                                                    <img src="assets/img/product/amygdala/system-inventory/019-integration.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -246,7 +246,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                        <img src="assets/img/product/Amygdala XDR/system-inventory/020-multi-agent-system.png" alt="">
+                                                                        <img src="assets/img/product/amygdala/system-inventory/020-multi-agent-system.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -259,7 +259,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                    <img src="assets/img/product/Amygdala XDR/system-inventory/021-operation.png" alt="">
+                                                                    <img src="assets/img/product/amygdala/system-inventory/021-operation.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -272,7 +272,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                    <img src="assets/img/product/Amygdala XDR/system-inventory/022-settings.png" alt="">
+                                                                    <img src="assets/img/product/amygdala/system-inventory/022-settings.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -287,7 +287,7 @@
                                                             <div class="row align-items-center">
                                                                 <div class="col-lg-2">
                                                                     <div class="icon mb-3 mb-lg-0">
-                                                                        <img src="assets/img/product/Amygdala XDR/system-inventory/023-it-systems.png" alt="">
+                                                                        <img src="assets/img/product/amygdala/system-inventory/023-it-systems.png" alt="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-10">
@@ -308,9 +308,9 @@
                                                     </div>
                                                     <div class="col-lg-12 mt-30">
                                                         <div class="main-info">  
-                                                            <p class="mb-10 text-danger">
-                                                                    PHOTO
-                                                            </p> 
+                                                                <p class="pb-50 mt-20 mb-20 text-center">
+                                                                    <img src="assets/img/dashboards/amygdala/system-inventory.png" class="img-thumbnail"  alt="">
+                                                                </p>
                                                             
                                                         </div>
                                                     </div>

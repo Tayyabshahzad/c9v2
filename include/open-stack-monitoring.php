@@ -15,7 +15,7 @@
                                                                          
                                                                         <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-10" style="font-size: 1.5em;"> 
-                                                                                <span> Overview </span>   
+                                                                                 Overview  
                                                                             </h2>
                                                                         </div>
                                                                     </div>
@@ -119,7 +119,7 @@
                                                                     <div class="color-000 mt-20">
                                                                     <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                                                                             <h2 class="mb-20" style="font-size: 1.5em;"> 
-                                                                                <span> Features </span>   
+                                                                                Features    
                                                                             </h2>
                                                                         </div>
                                                                         <p class="mb-4 mt-2">
@@ -265,7 +265,7 @@
         
                 <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
                     <h2 class="mb-10" style="font-size: 1.5em;"> 
-                        <span> Benefits </span>   
+                         Benefits 
                     </h2>
                 </div>
                
@@ -363,7 +363,7 @@
                     <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                         <div class="col-lg-12">
                             <div class="section-head style-4"> 
-                                <h2 class="mb-30" style="font-size: 1.5em;"> <span> Moreover </span> </h2>
+                                <h2 class="mb-30" style="font-size: 1.5em;">  Moreover   </h2>
                             </div>
                             
                              
@@ -380,17 +380,17 @@
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
                                 <strong class="color-000"> 
                                 Holistic Visibility into Nodes and Pods Details     
-                                <strong>  
+                </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
                                 <strong class="color-000"> 
                                 Automated & Customized Reporting  
-                                <strong>  
+                </strong>  
                             </p>
                             <p class="mt-15"> <i class="fas fa-check-circle color-blue5 me-2"></i>
                                 <strong class="color-000"> 
                                     Modernizing application architectures toward micro services. 
-                                <strong>  
+                </strong>  
                             </p>  
                         </div> 
                     </div>
@@ -405,11 +405,11 @@
                         <div class="col-lg-12">
                             <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                                 <table class="table" style="width:100%">
-                                    <tr class="text-center">
+                                    <tr class="text-left">
                                         <th colspan='2'>  
                                                 <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                            Technology   <span> Supported </span>    
+                                                            Technology   Supported     
                                                     </h2>
                                                 </div>
                                         </th>
@@ -489,11 +489,11 @@
                         <div class="col-lg-12">
                             <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                                 <table class="table" style="width:100%">
-                                    <tr class="text-center">
+                                    <tr class="text-left">
                                         <th colspan='6'>  
                                                 <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                             Protocols  <span> Supported </span>    
+                                                             Protocols    Supported      
                                                     </h2>
                                                 </div>
                                         </th>
@@ -564,11 +564,11 @@
                         <div class="col-lg-12">
                             <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                                 <table class="table" style="width:100%">
-                                    <tr class="text-center">
+                                    <tr class="text-left">
                                         <th colspan='6'>  
                                                 <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                    Devices   <span> Supported </span>    
+                                                    Devices     Supported     
                                                     </h2>
                                                 </div>
                                         </th>
@@ -634,11 +634,11 @@
                         <div class="col-lg-12">
                             <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                                 <table class="table" style="width:100%">
-                                    <tr class="text-center">
+                                    <tr class="text-left">
                                         <th colspan='6'>  
                                                 <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                    Monitored    <span> Devices </span>    
+                                                    Monitored     Devices  
                                                     </h2>
                                                 </div>
                                         </th>
@@ -700,11 +700,11 @@
                         <div class="col-lg-12">
                             <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> 
                                 <table class="table" style="width:100%">
-                                    <tr class="text-center">
+                                    <tr class="text-left">
                                         <th colspan='6'>  
                                                 <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                     Module  <span> Dependency </span>    
+                                                     Module    Dependency    
                                                     </h2>
                                                 </div>
                                         </th>
@@ -769,7 +769,7 @@
                                         <th colspan='6'>  
                                                 <div class="section-head style-4"> 
                                                     <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                        IP/Ports <span> Requirements  </span>    
+                                                        IP/Ports  Requirements      
                                                     </h2>
                                                 </div>
                                         </th>
@@ -805,7 +805,7 @@
                     <div class="row"style="background-image: url('assets/img/integ_11_pattern.png');background-repeat:no-repeat;background-position:center">
                         <div class="col-lg-12">
                             <div class="section-head style-4"> 
-                                <h2 class="mb-30" style="font-size: 1.5em;"> <span> Scalability </span> </h2>
+                                <h2 class="mb-30" style="font-size: 1.5em;">  Scalability   </h2>
                             </div>
                             <p class="text mb-20" style="font-weight:normal">
                                  The number of monitored OpenStack nodes can be scaled by deploying additional NRPE agents and Trace9 servers as needed 
@@ -817,6 +817,9 @@
                              
                              
                             
+                        </div> 
+                        <div class="col-lg-12 mb-20">
+                            <img src="assets/img/dashboards/openstack-monitoring.png" class="img-thumbnail" alt="">
                         </div> 
                     </div>
                 </div>
