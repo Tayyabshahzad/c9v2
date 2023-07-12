@@ -197,7 +197,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
                                                 <div class="img">
-                                                    <img src="assets/img/banners/unique-selling-proposition.webp" alt="" class="main-img">
+                                                    <img src="assets/img/banners/Unique-Selling-point.png" alt="" class="main-img">
                                                     <div class="tags">
                                                         <a href="#"> Get More Info <i class="fa fa-info"></i> </a>
                                                     </div> 
@@ -222,7 +222,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
                                                 <div class="img" style="width:88%">
-                                                    <img src="assets/img/banners/7121192.jpg" alt="" class="main-img">
+                                                    <img src="assets/img/banners/Unique-Value-point.png" alt="" class="main-img">
                                                     <div class="tags">
                                                         <a href="#"> Get More Info <i class="fa fa-info"></i> </a>
                                                     </div> 
@@ -1160,7 +1160,7 @@
       <button style="position:absolute;bottom: 44px;left: 35px;padding:4px 0;width: 14%;border: none;color: #fff;background: #8c5ff0;"> More Info </button>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/amygdala.png" alt="Second slide">
+      <img class="d-block w-100" src="assets/img/trace9.png" alt="Second slide">
       <button style="position:absolute;bottom: 44px;left: 35px;padding:4px 0;width: 14%;border: none;color: #fff;background: #8c5ff0;"> More Info </button>
     </div>
     

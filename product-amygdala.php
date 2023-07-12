@@ -205,7 +205,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-lg-6">
                             <div class="img mb-30 mb-lg-0">
-                                <img src="assets/img/about/ipad.png" alt="">
+                                <img src="assets/img/banners/amygdala-dashboard.PNG" alt="">
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -420,7 +420,7 @@
                             </div>
                             <div class="col-lg-6 order-0 order-lg-2">
                                 <div class="img mb-30 mb-lg-0">
-                                    <img src="assets/img/about/2mobiles.png" alt="">
+                                    <img src="assets/img/banners/Tablet2-Amygdala.png" alt="">
                                 </div>
                             </div>
                         </div>

@@ -197,7 +197,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-lg-6">
                             <div class="img mb-30 mb-lg-0">
-                                <img src="assets/img/banners/Trace9.png" alt="">
+                                <img src="assets/img/banners/Trace-9-Tab.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -287,8 +287,7 @@
                             <div class="tab-pane fade active show" id="pills-pay2" role="tabpanel"
                                 aria-labelledby="industry-difference-tab">
                                 <div class="tab-pay-content">
-                                    <section class="container"
-                                        style="background-image: url('assets/img/integ_11_pattern.png');">
+                                    <section class="container"   style="background-image: url('assets/img/integ_11_pattern.png');">
                                         <div class="row gx-4 gx-lg-5" style="">
                                             <div class="col-lg-12 ">
                                                 <div class="info text-center">
@@ -389,7 +388,7 @@
 
                                             <div class="col-lg-4">
                                                 <div class="img">
-                                                    <img src="assets/img/services/feat14_img1.png" alt="">
+                                                    <img src="assets/img/banners/Trace9.png" alt="">
                                                 </div>
                                             </div>
                                         </div>
