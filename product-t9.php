@@ -392,7 +392,7 @@
 
                                             <div class="col-lg-4">
                                                 <div class="img">
-                                                    <img src="assets/img/banners/Trace9.png" alt="">
+                                                    <img src="assets/img/banners/industry-difference.png" alt="">
                                                 </div>
                                             </div>
                                         </div>
