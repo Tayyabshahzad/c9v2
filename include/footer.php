@@ -62,7 +62,7 @@
             <div class="foot">
                 <p> 
                 © <?php echo date('Y')?> Copyrights by <a href="#" class="fw-bold text-decoration-underline">IOTA Solutions.</a> All
-                    Rights Reserved. Designed by <a href="#" class="fw-bold text-decoration-underline"> IOTA Solutions
+                    Rights Reserved.  
                     </a>
                 </p>
                 

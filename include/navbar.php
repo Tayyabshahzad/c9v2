@@ -34,7 +34,9 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
                             <li><a class="dropdown-item " href="./product-t9.php?p=t">Trace9</a></li>
-                            <li><a class="dropdown-item" href="./product-amygdala.php?p=a">Amygdala XDR </a></li> 
+                            <li><a class="dropdown-item"  href="./product-amygdala.php?p=a">Amygdala XDR <small class="hot alert-danger text-danger"style=" font-size: 9px;
+                                                border-radius: 2px;
+                                                padding: 2px;">new</small></a></li> 
                         </ul>
                     </li>
 

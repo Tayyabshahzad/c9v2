@@ -52,15 +52,15 @@
                                     <div class="info">
                                         <div class="section-head style-4 mb-40">
                                             <h2 class="" style="font-size: 1.8em;">
-                                                Standard <span> Edition
-                                                </span>
+                                            <span> Standard Edition  </span>
                                             </h2>
                                         </div>
                                         <div class="text mb-10">
                                             <p>
-                                            This edition is ideal for small and medium-sized businesses who need basic IT monitoring and management capabilities. It supports up to 5000 IT assets, including two satellite nodes for remote monitoring. It also provides basic dashboards for data visualization and analysis according to the varying size, needs, and demands of your organization.     
+                                            This edition is ideal for small and medium-sized businesses that need basic IT monitoring and management capabilities. It supports up to 5000 IT assets, including two satellite nodes for remote monitoring. It also provides basic dashboards for data visualization and analysis according to the varying size, needs, and demands of your organization.     
                                             </p>
                                             <p>
+                                                <br/>
                                                 You can select from the following modules to customize your IT monitoring and management solution:
                                             </p>
                                         </div>
@@ -85,7 +85,7 @@
                                                     core functionality of Trace9
                                                     4.0, such as data
                                                     collection, processing,
-                                                    storage, and reporting
+                                                    storage, and reporting.
                                                 </td>
                                             </tr>
 
@@ -206,8 +206,7 @@
                                     <div class="info">
                                         <div class="section-head style-4 mb-40">
                                             <h2 class="" style="font-size: 1.8em;">
-                                                Professional <span> Edition
-                                                </span>
+                                                <span> Professional  Edition  </span>
                                             </h2>
                                         </div>
                                         <div class="text mb-10">
@@ -240,7 +239,7 @@
                                                 </th>
                                                 <td>
                                                     This module allows you to monitor remote IT assets that are not
-                                                    directly connected to the main Trace9 server
+                                                    directly connected to the main Trace9 server.
                                                 </td>
                                             </tr>
 
@@ -635,13 +634,12 @@
                                                 This edition is ideal for telecom and metro businesses who need
                                                 specialized IT monitoring and management capabilities. It supports up to
                                                 250000 IT assets, with a dashboard portal that includes machine learning
-                                                support for data analysis and prediction. It also provides special
-                                                integration with telco-related hardware and software.
+                                                support for data analysis and prediction. 
                                             </p>
                                             <p>    
                                                 You can select
                                                 from the following modules to customize your IT monitoring and
-                                                management solution
+                                                management solution.
                                             </p>
                                         </div>
 
@@ -662,7 +660,7 @@
                                                 </th>
                                                 <td>
                                                     This module allows you to monitor remote IT assets that are not
-                                                    directly connected to the main Trace9 server
+                                                    directly connected to the main Trace9 server.
                                                 </td>
                                             </tr>
 
@@ -911,7 +909,7 @@
                                                     style="">
                                                     <div class="accordion-body">
                                                         <p>
-                                                            This module provides the core functionality of Trace9 4.0,
+                                                            This module provides the core functionality of Trace9 4.0
                                                             such as data collection, processing, storage, and reporting.
                                                             It enables you to collect data from various sources, process
                                                             it using advanced algorithms, store it in a scalable and
@@ -960,7 +958,7 @@
                                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
                                                         <p>
-                                                            Trace9 monitor and track the performance and availability of
+                                                            Trace9 monitors and tracks the performance and availability of
                                                             your network devices and links. It enables you to discover
                                                             and map your network topology, measure network performance
                                                             metrics such as latency, jitter, packet loss, throughput,
@@ -985,7 +983,7 @@
                                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
                                                         <p>
-                                                            Trace9 monitor the performance and availability of your
+                                                            Trace9 monitors the performance and availability of your
                                                             Internet of Things (IoT) devices and sensors. It enables you
                                                             to discover and map your IoT devices and sensors, measure
                                                             IoT performance metrics such as signal strength, battery
@@ -1064,7 +1062,7 @@
                                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
                                                         <p>
-                                                            Trace9 keeps an eyes on the performance and availability of
+                                                            Trace9 keeps an eye on the performance and availability of
                                                             your virtual machines and hosts. It enables you to measure
                                                             virtualization performance metrics such as CPU usage, memory
                                                             usage, disk usage, etc., monitor virtualization health and
@@ -1089,7 +1087,7 @@
                                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
                                                         <p>
-                                                            Trace9 monitor the performance and availability of your
+                                                            Trace9 monitors the performance and availability of your
                                                             databases. It enables you to measure database performance
                                                             metrics such as query time, error rate, throughput, etc.,
                                                             monitor database health and status, and detect and
@@ -1101,30 +1099,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="hd7">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#cl8"
-                                                        aria-expanded="false" aria-controls="collapseThree">
-                                                        Database Monitor
-                                                    </button>
-                                                </h2>
-                                                <div id="cl8" class="accordion-collapse collapse"
-                                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>
-                                                            Trace9 monitor the performance and availability of your
-                                                            databases. It enables you to measure database performance
-                                                            metrics such as query time, error rate, throughput, etc.,
-                                                            monitor database health and status, and detect and
-                                                            troubleshoot database faults and anomalies. This module
-                                                            helps you to ensure optimal database performance and
-                                                            availability, reduce database downtime and outages, and
-                                                            improve database efficiency and reliability.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                             
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="hd7">
                                                     <button class="accordion-button collapsed" type="button"
@@ -1137,7 +1112,7 @@
                                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
                                                         <p>
-                                                            Trace9 track and monitor the performance and availability of
+                                                            Trace9 tracks and monitors the performance and availability of
                                                             your cloud services and resources. It enables you to measure
                                                             cloud performance metrics such as latency, availability,
                                                             cost, etc., monitor cloud health and status, and detect and
@@ -1166,7 +1141,7 @@
                                                             systems. It enables you to measure HCI performance metrics
                                                             such as CPU usage, memory usage, disk usage, etc., monitor
                                                             HCI health and status, and detect and troubleshoot HCI
-                                                            faults
+                                                            faults.
                                                         </p>
                                                     </div>
                                                 </div>

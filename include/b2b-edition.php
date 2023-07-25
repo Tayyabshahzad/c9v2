@@ -11,11 +11,11 @@
             Are you a service provider who wants to offer IT monitoring and
             management services to your clients?
         </p>
-        <p class="text  mb-20">
-            If Yes, you need Trace9 4.0 MSP or CSP editions.
+        <p class="text  mb-20" style="font-weight: bold;">
+            If yes, you need Trace9 4.0 MSP or CSP editions.
 
         </p>
-        <p class="text  mb-20">
+        <p class="text  mb-20" >
             These editions are specially designed for service providers who need to
             monitor and manage multiple IT environments for their clients. You can
             choose from different subscription bundles:
@@ -31,18 +31,18 @@
                     <ul>
                         <li class="d-flex mb-20">
                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
-                            <div class="text"> <strong class="color-000"> Silver
+                            <div class="text"> <strong class="color-000"> Silver:
                                 </strong> </div>
                         </li>
                         <li class="d-flex mb-20">
                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
-                            <div class="text"> <strong class="color-000">Gold
+                            <div class="text"> <strong class="color-000">Gold:
                                 </strong>  </div>
                         </li>
 
                         <li class="d-flex mb-20">
                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
-                            <div class="text"> <strong class="color-000">Platinum
+                            <div class="text"> <strong class="color-000">Platinum:
                                 </strong>   </div>
                         </li>
                     </ul>
@@ -60,20 +60,18 @@
 </section>
 <div class="col-lg-12 mt-20" style="padding:0 37px">
     <div class="info">
-        <p class="text  mb-20" style="font-weight: bold;">
+        <p class="text  mb-20"  >
             Each bundle comes with a set of modules and features that match different service levels and customer
             segments. Whether you need basic or advanced IT monitoring and management capabilities, Trace9 4.0 MSP & CSP
             editions got you covered.
-        </p>
-        <p class="text  mb-20">
+            <br/>
             Plus, you can enjoy the flexibility and affordability of Trace9 4.0 MSP & CSP editions. You can try out the
             software with a demo bundle before choosing other bundles. You can also switch between bundles as your needs
             and budget change. Don’t miss this opportunity to grow your business with Trace9 4.0 MSP & CSP editions.
-
-        </p>
-        <p class="text  mb-20">
+            <br/>
             Contact sales today and get started with Trace9 4.0 MSP & CSP editions.
         </p>
+        
         <h3>
 
         </h3>
@@ -378,11 +376,11 @@
             <h3 style="font-size: 25px;"> Modules <span>  for B2B  </span></h3>
         </div>
 
-        <p class="text  mb-20" style="font-weight: bold;">
+        <p class="text  mb-20"  >
         Each edition offers different modules and features sets that allow you to customize your monitoring experience according to your specific requirements and preferences. 
         </p>
         <p class="text  mb-20">
-        Some of the modules that Trace9 4.0 offers are
+        Some of the modules that Trace9 4.0 offers are:
         </p>
         <table class="table">
             <tr>
@@ -450,7 +448,7 @@
 
             <tr>
                 <th>
-                Cloud Monitoring:
+                Cloud Monitoring
                 </th> 
                 <td valign="middle">
                 A module that monitors the performance and availability of your cloud services using AWS CloudWatch API, Azure Monitor API, Google Cloud Monitoring API, etc. 
@@ -534,11 +532,11 @@
 
 
         <p class="text mt-20 mb-20">
-            Some of the features that Trace9 4.0 offers based on edition choice are
+            Some of the features that Trace9 4.0 offers based on edition choice are:
         </p>
-        <p class="text  mb-20">
+        <!-- <p class="text  mb-20">
         Trace9.0 is a unified health and performance monitoring solution for complete IT stack. It offers various features that help you plan, execute, and monitor your IT operations and business outcomes. 
-        </p>
+        </p> -->
         <table class="table">
                                             <tr>
                                                 <th>
@@ -578,7 +576,7 @@
 
                                             <tr>
                                                 <th>
-                                                Dependency based monitoring
+                                                Dependency Based Monitoring
                                                 </th>
                                                 <td>
                                                 A feature that allows you to monitor the dependencies and relationships between your devices and services using topology maps and graphs. 
@@ -668,7 +666,7 @@
 
                                             <tr>
                                                 <th>
-                                                Auto Discovery:
+                                                Auto Discovery
                                                 </th>
                                                 <td>
                                                 A feature that allows you to discover your devices and services automatically using various methods such as ICMP, SNMP, WMI, AD DS, etc. 

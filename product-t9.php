@@ -180,11 +180,7 @@
                         </div>
                         <div class="section-head text-center style-4">
                             <p>
-                                Are you looking for a way to monitor and manage your entire IT infrastructure from a
-                                single platform? Do you want to gain insights into the performance, availability, and
-                                health of your network devices, servers, applications, databases, cloud services, and
-                                more? Do you want to leverage the power of Industry 4.0 technologies to optimize your IT
-                                operations and business outcomes?
+                            Are you looking for a solution to monitor and manage your entire IT infrastructure from a single platform? Do you want to gain insights into the performance, availability, and health of your network devices, servers, applications, databases, cloud services, and more? Do you want to leverage the power of Industry 4.0 technologies to optimize your IT operations? 
                                 <br>
 
                             </p>
@@ -208,14 +204,14 @@
                             <div class="info">
                                 <div class="section-head style-4">
                                     <small class="title_small"> </small>
-                                    <h2 class="mb-30"> The Ultimate Unified IT Monitoring <span> Solution </span> </h2>
+                                    <h2 class="mb-30"> The Ultimate <span> Unified IT Monitoring Solution </span> </h2>
                                 </div>
                                 <p class="text mb-40">
                                     Unified monitoring solution uses industry-leading monitoring frameworks &
                                     technologies to monitor and manage the health and performance of the entire IT
                                     infrastructure across physical, virtual, and hybrid IT environments. It enables
                                     organizations to keep track of and observe the performance of their networks,
-                                    servers, databases, cloud, and all other IT assets in their environment. <br />It is
+                                    servers, databases, cloud, and all other IT assets in their environment. <br /> <br/>It is
                                     a comprehensive and scalable IT monitoring solution that helps you keep track of
                                     everything in your IT environment. Whether you are a small business or a large
                                     enterprise, it meets your needs and budget.
@@ -290,10 +286,10 @@
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade active show" id="pills-pay2" role="tabpanel"
                                 aria-labelledby="industry-difference-tab">
-                                <div class="tab-pay-content">
-                                    <section class="container"   style="background-image: url('assets/img/integ_11_pattern.png');">
+                                <div class="tab-pay-content" >
+                                    <section class="container"   style="background-image: url('assets/img/integ_11_pattern.png')">
                                         <div class="row gx-4 gx-lg-5" style="">
-                                            <div class="col-lg-12 ">
+                                            <div class="col-lg-12 " >
                                                 <div class="info text-center">
                                                     <div class="section-head style-4 mb-20">
                                                         <h2 class=""> <span> Significance </span> </h2>
@@ -318,7 +314,7 @@
 
                                                     <div class="text mb-10 color-666">
                                                         Furthermore, it generates customized reports-on demand and via
-                                                        scheduler as well. Over and above that, it provides Intelligent
+                                                        scheduler as well. Over and above that, it provides intelligent
                                                         alerting, notification, and IT help desk capabilities aligned
                                                         with
                                                         customers’ operational workflows.
@@ -345,9 +341,7 @@
                                                         <li class="d-flex mb-20">
                                                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
                                                             <div class="text"> <strong class="color-000">Improved
-                                                                    reliability and availability </strong> <br>Trace9
-                                                                4.0
-                                                                unified monitoring solution helps organizations
+                                                                    reliability and availability </strong> <br> Helps organizations
                                                                 proactively
                                                                 identify and resolve issues before they cause downtime,
                                                                 ensuring that critical systems and applications are
@@ -357,18 +351,13 @@
                                                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
                                                             <div class="text"> <strong class="color-000">Enhanced
                                                                     security
-                                                                </strong> <br>Trace9 4.0 unified monitoring solution
-                                                                detects
-                                                                and alert organizations to potential security threats,
-                                                                helping them to respond quickly and prevent data
-                                                                breaches.
+                                                                </strong> <br>Detects and alerts organizations to potential security threats, helping them respond quickly and prevent data breaches.
                                                             </div>
                                                         </li>
                                                         <li class="d-flex mb-20">
                                                             <i class="fas fa-check-circle color-blue7 me-2 mt-2"></i>
                                                             <div class="text"> <strong class="color-000">Better
-                                                                    decision-making </strong><br> Trace9 4.0 unified
-                                                                monitoring solution provides real-time data and
+                                                                    decision-making </strong><br> Provides real-time data and
                                                                 insights,
                                                                 allowing organizations to make informed decisions about
                                                                 their IT infrastructure and operations. </div>
@@ -396,8 +385,11 @@
                                                 </div>
                                             </div>
                                         </div>
+                                      
                                     </section>
+                                   
                                 </div>
+                               
                             </div>
                             <div class="tab-pane fade" id="pills-pay3" role="tabpanel"
                                 aria-labelledby="trace9-business-models-tab">
@@ -420,10 +412,9 @@
                                                                     <h3> B2C & B2B <span> Editions </span></h3>
                                                                 </div>
                                                                 <small class="text text-gray mb-20">
-                                                                    Trace9 4.0 is available in two business models
+                                                                    Trace9 4.0 is available in two business models B2C and B2B; 
                                                                     <strong>B2C</strong>
-                                                                    and <strong>B2B</strong>. B2C with four editions and
-                                                                    B2B with two editions.
+                                                                    and <strong>B2B</strong>; B2C with four editions and B2B with two editions.
                                                                 </small>
 
                                                                 <small class="text text-gray mb-20">
@@ -591,8 +582,8 @@
                                             </div>
 
                                         </div>
-                                        <p class="text text-center text-balck mb-30" style="
-                                            background-color: #ffffff;
+                                        <p class="text text-center text-balck mb-30 " style="
+                                            background-color: #ffffff; margin-top:-3%;
                                             -webkit-box-shadow: 0px -16px 32px 0px rgba(0, 0, 0, 0.0392156863);
                                             box-shadow: 0px -16px 32px 0px rgba(0, 0, 0, 0.0392156863);
                                             padding: 50px;
@@ -621,7 +612,7 @@
                                             <h3>Trace9 4.0 Editions <span>Difference</span></h3>
                                         </div>
                                         <table class="table">
-                                            <tr class="" style="background-color: #eef4f8;">
+                                            <tr class="" >
                                                 <th>
                                                     &nbsp;&nbsp; Trace9 4.0
                                                 </th>
@@ -644,7 +635,7 @@
                                                     MSP
                                                 </th> 
                                             </tr>
-                                            <tr class="bg-gray">
+                                            <tr class=" ">
                                                 <th colspan="7">
                                                     &nbsp;&nbsp; Modules x = Supported - NS= Not Supported "Version
                                                     upgrade will
@@ -835,7 +826,7 @@
                                                     HCI Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -857,7 +848,7 @@
                                                     Advanced Virtualization Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -878,7 +869,7 @@
                                                     Log Management
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -900,7 +891,7 @@
                                                     Software License Monitoring
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -922,7 +913,7 @@
                                                     ITSM Integration
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -944,7 +935,7 @@
                                                     Network xFlow
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -965,10 +956,10 @@
                                                     NF Virtualization Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will requir
+                                                    NS & version upgrade will requir
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -987,7 +978,7 @@
                                                     SD-WAN Performance Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -1337,13 +1328,11 @@
                                                     style="margin-top:90px;">
                                                     <div class="info">
                                                         <div class="section-head style-4 mb-20">
-                                                            <h2 class=""> Single <span> Source </span> of Truth </h2>
+                                                            <h2 class=""> <span>  Single Source  of Truth </span> </h2>
                                                         </div>
                                                     </div>
                                                     <p>
-                                                        Without a comprehensive view of the infrastructure, IT teams
-                                                        struggle to identify the root cause of issues, leading towards
-                                                        longer resolution times and increased frustration for users.
+                                                        Without a comprehensive view of the infrastructure, the IT teams struggle to identify the root cause of issues, leading to longer resolution times and increased frustration for users.
                                                         Trace9 offers comprehensive monitoring of networks, IT assets,
                                                         and applications in a single pane of glass, allowing IT teams to
                                                         proactively anticipate, recognize, and mitigate performance
@@ -1369,7 +1358,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure that your IT systems are
                                                                             performing well, available, and secure
                                                                             without spending too much time and effort on
@@ -1399,7 +1388,7 @@
                                                                             IT team’s productivity.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Monitoring Automation is a
                                                                             big challenge in the IT industry and that's
                                                                             why silos of tools run under one IT and are
@@ -1413,7 +1402,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> CIT,
                                                                                             CTO, IT Management, IT
                                                                                             Managers, IT administrator,
@@ -1424,7 +1413,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their value Chain Monitoring.
                                                                             </p>
@@ -1663,7 +1652,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong>How can
+                                                                            <strong>Problem Statement:</strong>How can
                                                                             you ensure that your value chain is running
                                                                             smoothly and efficiently? Your value chain
                                                                             is the set of activities that create and
@@ -1685,7 +1674,7 @@
                                                                             services. This solution helps you identify
                                                                             and eliminate bottlenecks, optimize your IT,
                                                                             and enhance your IT.
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Do you want to make your
                                                                             own process-based dashboards? Notifications
                                                                             at the process or sub-process level? On a
@@ -1705,7 +1694,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> CIT,
                                                                                             CTO, IT Management, IT
                                                                                             Managers, IT administrator,
@@ -1716,7 +1705,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their value Chain Monitoring.
                                                                             </p>
@@ -1836,7 +1825,8 @@
                                                                                 your value chain processes are operating
                                                                                 effectively and efficiently. This can
                                                                                 help you identify potential issues and
-                                                                                take proactive steps to address them.
+                                                                                take proactive steps to address them. 
+                                                                                <br/>
                                                                             </p>
                                                                         </div>
 
@@ -1890,7 +1880,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you keep an eye on the performance and
                                                                             availability of your cloud-based resources?
                                                                             Cloud infrastructure monitoring involves
@@ -1918,7 +1908,7 @@
                                                                             and Google Cloud Platform.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to With the help of plugins,
                                                                             Trace9 can also monitor cloud infrastructure
                                                                             platforms like Amazon Web Services (AWS),
@@ -1935,19 +1925,19 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staf
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
-                                                                                their Cloud PLatfrom Monitoring.
+                                                                                their Cloud Platform Monitoring. 
                                                                             </p>
 
                                                                             <p class="mb-2">
@@ -2061,7 +2051,7 @@
 
 
                                                                         <small>
-                                                                            <b>Conclusion</b> cloud infrastructure
+                                                                            <b>Conclusion :</b> cloud infrastructure
                                                                             monitoring with Trace9 provides
                                                                             organizations with a comprehensive view of
                                                                             their cloud infrastructure and enables them
@@ -2074,8 +2064,7 @@
                                                                             notifications, organizations can ensure that
                                                                             their cloud infrastructure is operating
                                                                             within acceptable parameters and quickly
-                                                                            address any issues that may arise.
-                                                                            arise.
+                                                                            address any issues that may arise. 
                                                                         </small>
                                                                         </p>
                                                                     </div>
@@ -2097,7 +2086,7 @@
                                                                     data-bs-parent="#accordionExample" style="">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> :How can
+                                                                            <strong>Problem Statement:</strong>How can
                                                                             you ensure that your network devices and
                                                                             applications provide optimal performance and
                                                                             availability? In today’s digital landscape,
@@ -2125,6 +2114,7 @@
                                                                             loss to identify any issues that may affect
                                                                             QoS.
                                                                             <br />
+                                                                            
                                                                             This use case describes how Trace9 enables
                                                                             organizations to Network monitoring is used
                                                                             to monitor network performance by tracking
@@ -2139,7 +2129,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             administrator, IT manager,
                                                                                             IT support staff </small>
@@ -2244,7 +2234,7 @@
 
                                                                         <p class="mb-2">
                                                                             <small>
-                                                                                <b>Conclusion</b> network monitoring is
+                                                                                <b>Conclusion:</b> Network monitoring is
                                                                                 an essential practice for ensuring the
                                                                                 availability, reliability, and security
                                                                                 of computer networks.
@@ -2270,7 +2260,7 @@
                                                                     <div class="accordion-body">
 
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> :How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure optimal network performance for
                                                                             your critical business operations? In
                                                                             today’s business landscape, organizations
@@ -2288,7 +2278,7 @@
                                                                         </p>
 
                                                                         <p class="mb-2">
-                                                                            <strong>Solution</strong>:Imagine if you
+                                                                            <strong>Solution</strong>: Imagine if you
                                                                             could have a solution for Quality of Service
                                                                             Monitoring that helps you monitor and
                                                                             maintain optimal network performance. Trace9
@@ -2300,7 +2290,7 @@
                                                                             effectively.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Network monitoring can be
                                                                             used to monitor the quality of service (QoS)
                                                                             provided by network devices and
@@ -2316,17 +2306,17 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             administrator,IT manager, IT
-                                                                                            support staff </small>
+                                                                                            support staff. </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                         </small>
                                                                         <p class="mb-2">
                                                                             <strong>Preconditions:</strong> The
-                                                                            organization has deployed Trcae9 as their
+                                                                            organization has deployed Trace9 as their
                                                                             unified monitoring solution for their IT
                                                                             Network monitoring.
                                                                         </p>
@@ -2338,7 +2328,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Define Service Level Agreements (SLAs)
+                                                                                Define Service Level Agreements (SLAs):
                                                                                 <br>
                                                                             </strong>
                                                                             <small>
@@ -2351,7 +2341,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Configure Trace9 <br>
+                                                                                Configure Trace9:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have defined your SLAs, you
@@ -2384,7 +2374,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Analyze Performance Data <br>
+                                                                                Analyze Performance Data:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Trace9 monitors QoS metrics, it also
@@ -2397,7 +2387,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Take Action to Improve QoS <br>
+                                                                                Take Action to Improve QoS:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have analyzed the QoS
@@ -2410,15 +2400,15 @@
                                                                             </small>
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            <b>Conclusion</b>
-                                                                            Trcae9 is a powerful tool that can be used
+                                                                            <b>Conclusion:</b>
+                                                                            Trace9 is a powerful tool that can be used
                                                                             for QoS monitoring to ensure that critical
                                                                             applications are performing at acceptable
                                                                             levels. By monitoring QoS metrics, setting
                                                                             thresholds, and taking action to optimize
                                                                             performance, organizations can ensure that
                                                                             their network is providing the necessary QoS
-                                                                            to support business operations. networks.
+                                                                            to support business operations networks.
                                                                         </p>
                                                                     </div>
 
@@ -2439,7 +2429,7 @@
                                                                     data-bs-parent="#accordionExample" style="">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong>
+                                                                            <strong>Problem Statement:</strong>
                                                                             How can you ensure that your organization is
                                                                             meeting regulatory and legal requirements?
                                                                             Compliance monitoring is a critical function
@@ -2452,7 +2442,7 @@
                                                                             analyzing large amounts of data from various
                                                                             sources to ensure that the organization is
                                                                             meeting all the necessary compliance
-                                                                            standards.
+                                                                            standards. <br/>
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>Solution</strong>:
@@ -2555,19 +2545,19 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
-                                                                                            administrator,IT manager, IT
-                                                                                            support staff </small>
+                                                                                            administrator. IT manager. IT
+                                                                                            support staff. </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                         </small>
                                                                         <p class="mb-2">
                                                                             <strong>Preconditions:</strong> The
-                                                                            organization has deployed Trcae9 as their
+                                                                            organization has deployed Trace9 as their
                                                                             unified monitoring solution for their IT
-                                                                            Network's high-level security monitoring.
+                                                                            network's high-level security monitoring.
                                                                             <small>
                                                                                 Trace9 is a powerful open-source network
                                                                                 monitoring tool that can be used for
@@ -2575,15 +2565,15 @@
                                                                                 can use Trace9 for compliance
                                                                                 monitoring:
                                                                                 <br>
-                                                                                <strong>
+                                                                                 
                                                                                     Here's how you can use Trace9 for
                                                                                     compliance monitoring: <br>
-                                                                                </strong>
+                                                                                
                                                                             </small>
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Define Service Level Agreements (SLAs)
+                                                                                Define Service Level Agreements (SLAs):
                                                                                 <br>
                                                                             </strong>
                                                                             <small>
@@ -2597,7 +2587,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Define Compliance Policies <br>
+                                                                                Define Compliance Policies: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have identified the regulatory
@@ -2610,7 +2600,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Configure Trace9 <br>
+                                                                                Configure Trace9: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have defined your compliance
@@ -2626,7 +2616,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Set Thresholds and Alerting <br>
+                                                                                Set Thresholds and Alerting: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 After you have configured Trace9 to
@@ -2642,7 +2632,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Analyze Compliance Data<br>
+                                                                                Analyze Compliance Data:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 As Trace9 monitors compliance, it also
@@ -2655,7 +2645,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Take Action to Improve Compliance<br>
+                                                                                Take Action to Improve Compliance:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have analyzed the compliance
@@ -2669,7 +2659,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <small>
-                                                                                <b>Conclusion</b>
+                                                                                <b>Conclusion: </b>
                                                                                 Trace9 is a powerful tool that can be
                                                                                 used for compliance monitoring to ensure
                                                                                 that your organization is complying with
@@ -2701,7 +2691,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you monitor complex IT environments with
                                                                             multiple systems and applications to ensure
                                                                             high availability and performance?
@@ -2733,10 +2723,8 @@
                                                                             degradation.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
-                                                                            organizations to Without conditional
-                                                                            monitoring, organizations are likely to be
-                                                                            reactive rather than proactive which means
+                                                                            This use case describes how Trace9 enables
+                                                                            organizations to Without conditional monitoring, organizations are likely to be reactive rather than proactive which means
                                                                             that issues are only identified after they
                                                                             have already occurred, which leads towards
                                                                             service disruptions, downtime, and other
@@ -2761,17 +2749,17 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the root cause.
                                                                             </p>
@@ -2781,17 +2769,17 @@
                                                                             Conditional monitoring is an advanced
                                                                             feature of Trace9 that allows you to monitor
                                                                             specific conditions and take action based on
-                                                                            the results
+                                                                            the results.
                                                                             <br>
-                                                                            <strong>
+                                                                            
                                                                                 Here's how you can use Trace9 for
                                                                                 conditional monitoring <br>
-                                                                            </strong>
+                                                                           
                                                                         </small>
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Define Conditions <br>
+                                                                                Define Conditions: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 The first step in conditional monitoring
@@ -2804,7 +2792,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Set Thresholds <br>
+                                                                                Set Thresholds: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have defined the conditions,
@@ -2818,7 +2806,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Define Actions <br>
+                                                                                Define Actions: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 After setting thresholds, you need to
@@ -2832,7 +2820,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Configure Trace9 <br>
+                                                                                Configure Trace9: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have defined conditions,
@@ -2845,7 +2833,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Analyze Performance Data<br>
+                                                                                Analyze Performance Data:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 As Trace9 monitors performance, it also
@@ -2858,7 +2846,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Take Action to Improve Performance<br>
+                                                                                Take Action to Improve Performance:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have analyzed the performance
@@ -2871,8 +2859,7 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b>conditional monitoring with
-                                                                            Trace9 is a powerful tool that allows
+                                                                            <b>Conclusion:</b>Conditional monitoring with Trace9 is a powerful tool that allows
                                                                             organizations to monitor specific conditions
                                                                             and take action based on the results. By
                                                                             defining conditions, setting thresholds,
@@ -2903,7 +2890,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you determine the root cause of an issue
                                                                             quickly in large-scale IT environments? In
                                                                             large-scale IT environments, multiple events
@@ -2925,18 +2912,9 @@
                                                                             help IT teams pinpoint the root cause of an
                                                                             issue quickly.
                                                                         </p>
+                                                                        
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trace9 enables
-                                                                            organizations to Are you unable to find the
-                                                                            root cause of your actual problems?
-                                                                        </p>
-                                                                        <p class="mb-2">
-                                                                            Trace9 correlates event with two or more
-                                                                            devices to determine the root cause, Trace9
-                                                                            dependency mapping will help you to define
-                                                                            your own event correlations & and Trace9
-                                                                            have xx amount predesign rules for IT
-                                                                            environments.
+                                                                            Trace9 correlates an event with two or more…cause, and its dependency mapping feature helps you define your own event correlations. There is an  amount of predesign rules for IT environments
                                                                         </p>
 
                                                                         <small>
@@ -2945,17 +2923,17 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the root cause.
                                                                             </p>
@@ -2969,15 +2947,15 @@
                                                                         </small>
 
                                                                         <small>
-                                                                            <strong>
+                                                                            
                                                                                 Here's how you can use Trace9 for event
                                                                                 correlation: <br>
-                                                                            </strong>
+                                                                           
                                                                         </small>
 
                                                                         <p class="mb-2 mt-2">
                                                                             <strong>
-                                                                                Configure Trace9 <br>
+                                                                                Configure Trace9: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 The first step in event correlation with
@@ -2989,7 +2967,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Define Event Correlation Rules <br>
+                                                                                Define Event Correlation Rules: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have configured Trace9 to
@@ -3003,7 +2981,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Map Events to Services <br>
+                                                                                Map Events to Services: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 After defining correlation rules, you
@@ -3017,7 +2995,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Analyze Correlated Events <br>
+                                                                                Analyze Correlated Events: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 As Trace9 correlates events, it also
@@ -3030,7 +3008,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Take Action to Improve Correlation<br>
+                                                                                Take Action to Improve Correlation:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have analyzed the correlated
@@ -3076,7 +3054,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you gain complete visibility into the health
                                                                             and performance of your services? In today’s
                                                                             complex IT environments, services are
@@ -3117,18 +3095,18 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">CIO, CTO,
                                                                                             Service Manager, IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the root cause with true
                                                                                 service visibility.
@@ -3143,16 +3121,15 @@
                                                                             </p>
                                                                         </small>
 
-                                                                        <small>
-                                                                            <strong>
+                                                                        <small> 
                                                                                 Here's how you can use Trace9 for
                                                                                 services visibility: <br>
-                                                                            </strong>
+                                                                           
                                                                         </small>
 
                                                                         <p class="mb-2 mt-2">
                                                                             <strong>
-                                                                                Define Services <br>
+                                                                                Define Services: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 The first step in services visibility
@@ -3166,7 +3143,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Set Up Service Checks <br>
+                                                                                Set Up Service Checks: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have defined the services, you
@@ -3181,7 +3158,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Set Notification Preferences <br>
+                                                                                Set Notification Preferences: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 After setting up service checks, you
@@ -3212,7 +3189,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Analyze Service Metrics<br>
+                                                                                Analyze Service Metrics:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 As Trace9 monitors services, it collects
@@ -3243,7 +3220,7 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b> Services visibility with
+                                                                            <b>Conclusion:</b> Services visibility with
                                                                             Trace9 provides organizations with a
                                                                             comprehensive view of their critical
                                                                             services, allowing them to quickly identify
@@ -3277,7 +3254,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you ensure that your IT infrastructure can
                                                                             support your business operations? In today’s
                                                                             digital world, organizations rely heavily on
@@ -3303,7 +3280,7 @@
                                                                             for future capacity needs.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Most mid to large
                                                                             enterprises are focused on their business
                                                                             and overlook capacity or performance
@@ -3317,7 +3294,7 @@
                                                                             proper explanations.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            Trcae9 provides capacity monitoring
+                                                                            Trace9 provides capacity monitoring
                                                                             capabilities that allow organizations to
                                                                             monitor their IT infrastructure along with
                                                                             key software licensing capacity and ensure
@@ -3334,39 +3311,35 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> CIO,
                                                                                             CTO, IT Management, IT
                                                                                             administrator, IT manager,
-                                                                                            IT support staff </small>
+                                                                                            IT support staff. </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
-                                                                                <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
-                                                                                their unified monitoring solution for
-                                                                                their IT infrastructure and software
-                                                                                licensing.
+                                                                                <strong>Preconditions:</strong> The organization has deployed Trcae9 as a unified monitoring solution for their IT infrastructure and software licensing.
                                                                             </p>
 
 
                                                                         </small>
 
                                                                         <small>
-                                                                            <strong>
-                                                                                Here are some examples of how Trcae9 can
+                                                                            
+                                                                                Here are some examples of how Trace9 can
                                                                                 be used for capacity monitoring:
                                                                                 <br>
-                                                                            </strong>
+                                                                            
                                                                         </small>
 
                                                                         <p class="mb-2 mt-2">
                                                                             <strong>
-                                                                                Resource Utilization <br>
+                                                                                Resource Utilization: <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can monitor the utilization of
+                                                                                Trace9 can monitor the utilization of
                                                                                 various IT resources, including CPU,
                                                                                 memory, disk space, network bandwidth,
                                                                                 licensing, and others. By monitoring
@@ -3379,10 +3352,10 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Performance Metrics <br>
+                                                                                Performance Metrics: <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can monitor performance metrics,
+                                                                                Trace9 can monitor performance metrics,
                                                                                 such as response time, throughput, and
                                                                                 transaction rates. By monitoring these
                                                                                 metrics, organizations can identify
@@ -3390,20 +3363,19 @@
                                                                                 proactive steps to address them,
                                                                                 ensuring that their IT infrastructure
                                                                                 can meet the business's performance
-                                                                                requirements
+                                                                                requirements.
                                                                             </small>
                                                                         </p>
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Trend Analysis <br>
+                                                                                Trend Analysis: <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can perform trend analysis on
+                                                                                Trace9 can perform trend analysis on
                                                                                 capacity metrics, helping organizations
                                                                                 predict future capacity requirements.
-                                                                                Trend analysis can identify when
-                                                                                capacity is reaching its limits and help
+                                                                                Trend analysis can identify when the capacity is reaching its limits and help
                                                                                 organizations plan for additional
                                                                                 capacity, ensuring that they can meet
                                                                                 the future demands of their business.
@@ -3415,7 +3387,7 @@
                                                                                 Capacity Planning: <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can help organizations plan for
+                                                                                Trace9 can help organizations plan for
                                                                                 future capacity requirements by
                                                                                 providing information on resource usage
                                                                                 trends and capacity utilization levels.
@@ -3428,7 +3400,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Alerting<br>
+                                                                                Alerting:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Trace9 can alert IT teams when capacity
@@ -3439,7 +3411,7 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b> Trcae9's capacity
+                                                                            <b>Conclusion</b> Trace9's capacity
                                                                             monitoring capabilities can help
                                                                             organizations optimize resource usage,
                                                                             identify bottlenecks, plan for future
@@ -3472,7 +3444,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you ensure that your servers are running
                                                                             efficiently and effectively? Server
                                                                             monitoring is crucial for ensuring that the
@@ -3496,18 +3468,7 @@
                                                                             utilization, disk space, network traffic,
                                                                             and application performance.
                                                                         </p>
-                                                                        <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
-                                                                            organizations to Trace9 can be used to
-                                                                            monitor the availability and performance of
-                                                                            servers in your organization's
-                                                                            infrastructure. This may include monitoring
-                                                                            CPU usage, memory usage, disk space, and
-                                                                            network traffic. With Trace9, you can set up
-                                                                            checks to ensure that your servers are
-                                                                            operating within acceptable parameters and
-                                                                            receive notifications if any issues arise.
-                                                                        </p>
+                                                                        
 
 
 
@@ -3517,19 +3478,19 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
-                                                                                their Server and storage monitoring.
+                                                                                their server and storage monitoring.
                                                                             </p>
 
                                                                             <p class="mb-2">
@@ -3541,11 +3502,10 @@
                                                                         </small>
 
                                                                         <small>
-                                                                            <strong>
+                                                                             
                                                                                 Here's how you can use Trace9 for server
                                                                                 monitoring
-                                                                                <br>
-                                                                            </strong>
+                                                                                <br> 
                                                                         </small>
 
                                                                         <p class="mb-2 mt-2">
@@ -3559,12 +3519,12 @@
                                                                                 include CPU usage, memory usage, disk
                                                                                 space, network traffic, and other key
                                                                                 performance indicators that are relevant
-                                                                                to your organization's operations
+                                                                                to your organization's operations.
                                                                             </small>
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Collect Server Performance Data <br>
+                                                                                Collect Server Performance Data: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have defined the server
@@ -3580,7 +3540,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Analyze Server Performance Data <br>
+                                                                                Analyze Server Performance Data: <br>
                                                                             </strong>
                                                                             <small>
                                                                                 After collecting server performance
@@ -3589,7 +3549,7 @@
                                                                                 usage. This can help you identify
                                                                                 potential issues before they impact your
                                                                                 operations and take proactive steps to
-                                                                                address them
+                                                                                address them.
                                                                             </small>
                                                                         </p>
 
@@ -3609,7 +3569,7 @@
                                                                         </p>
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Monitor Server Performance<br>
+                                                                                Monitor Server Performance:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Once you have set thresholds, you need
@@ -3624,7 +3584,7 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>
-                                                                                Receive Notifications<br>
+                                                                                Receive Notifications:<br>
                                                                             </strong>
                                                                             <small>
                                                                                 Trace9 allows you to configure
@@ -3636,7 +3596,7 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b> server monitoring with
+                                                                            <b>Conclusion:</b> server monitoring with
                                                                             Trace9 provides organizations with a
                                                                             comprehensive view of their server
                                                                             performance and enables them to take
@@ -3670,7 +3630,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you ensure the smooth functioning of your
                                                                             applications and avoid any delay or
                                                                             downtime? Application performance is
@@ -3686,9 +3646,8 @@
 
                                                                         <p class="mb-2">
                                                                             <strong>Solution</strong>: Imagine if you
-                                                                            could have a comprehensive and reliable
-                                                                            application monitoring solution that helps
-                                                                            you monitor the performance of your
+                                                                            could have comprehensive and reliable
+                                                                            application monitoring solution that would help you monitor the performance of your
                                                                             applications and quickly identify and
                                                                             resolve any issues. Trace9 offers
                                                                             application monitoring solutions that help
@@ -3699,7 +3658,7 @@
                                                                             database performance, and network latency.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can also be used to
                                                                             monitor the availability and performance of
                                                                             applications running on your servers. This
@@ -3717,17 +3676,17 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the application
                                                                                 monitoring.
@@ -3842,7 +3801,7 @@
 
 
                                                                         <p>
-                                                                            <b>Conclusion</b> application monitoring
+                                                                            <b>Conclusion</b> A application monitoring
                                                                             with Trace9 provides organizations with a
                                                                             comprehensive view of their application
                                                                             performance and enables them to take
@@ -3876,7 +3835,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you optimize your server resources by using
                                                                             virtualization technology? Virtualization
                                                                             technology allows you to create multiple
@@ -3905,7 +3864,7 @@
                                                                             resolve performance issues quickly.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can monitor
                                                                             virtualization platforms like VMware, KVM,
                                                                             and Hyper-V. With Trace9, you can monitor
@@ -3920,17 +3879,17 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Virtualization Monitoring.
                                                                             </p>
@@ -4077,7 +4036,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you manage your containerized environments
                                                                             more effectively? Containerization is a
                                                                             process that allows you to run your
@@ -4103,7 +4062,7 @@
                                                                             that.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can also monitor
                                                                             container-based infrastructure like Docker
                                                                             and Kubernetes. Trace9 provides the
@@ -4118,7 +4077,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -4128,13 +4087,13 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Container Monitoring.
                                                                             </p>
 
                                                                             <p class="mb-2">
-                                                                                The organization has deployed Trcae9 as
+                                                                                The organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Container Monitoring. <br />
                                                                                 Here's how you can use Trace9 for
@@ -4274,7 +4233,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you optimize your server resources by using
                                                                             virtualization technology? Virtualization
                                                                             technology allows you to create multiple
@@ -4303,7 +4262,7 @@
                                                                             resolve performance issues quickly.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can monitor
                                                                             virtualization platforms like VMware, KVM,
                                                                             and Hyper-V. With Trace9, you can monitor
@@ -4318,7 +4277,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -4328,7 +4287,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Virtualization Monitoring.
                                                                             </p>
@@ -4500,7 +4459,7 @@
                                                                     data-bs-parent="#accordionExample" style="">
                                                                     <div class="accordion-body">
                                                                         <p>
-                                                                            <strong>Problem Statement</strong> : How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you ensure optimal network performance for
                                                                             your critical business operations? In
                                                                             today’s business landscape, organizations
@@ -4518,7 +4477,7 @@
                                                                         </p>
 
                                                                         <p>
-                                                                            <strong>Solution</strong>:Imagine if you
+                                                                            <strong>Solution</strong>: Imagine if you
                                                                             could have a solution for Quality of Service
                                                                             Monitoring that helps you monitor and
                                                                             maintain optimal network performance. Trace9
@@ -4529,7 +4488,7 @@
                                                                             necessary bandwidth and priority to operate
                                                                             effectively.
                                                                             <br />
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Network monitoring can be
                                                                             used to monitor the quality of service (QoS)
                                                                             provided by network devices and
@@ -4544,16 +4503,16 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             administrator, IT manager,
-                                                                                            IT support staff </small>
+                                                                                            IT support staff. </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p>
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their IT Network monitoring.
                                                                                 <br />
@@ -4632,7 +4591,7 @@
                                                                         </small>
                                                                         <br>
                                                                         <small>
-                                                                            <b>Conclusion</b> ,Trcae9 is a powerful tool
+                                                                            <b>Conclusion</b> ,Trace9 is a powerful tool
                                                                             that can be used for QoS monitoring to
                                                                             ensure that critical applications are
                                                                             performing at acceptable levels. By
@@ -4663,7 +4622,7 @@
                                                                     <div class="accordion-body">
 
                                                                         <p>
-                                                                            <strong>Problem Statement</strong> :How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure optimal network performance for
                                                                             your critical business operations? In
                                                                             today’s business landscape, organizations
@@ -4692,7 +4651,7 @@
                                                                             necessary bandwidth and priority to operate
                                                                             effectively.
                                                                             <br />
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Network monitoring can be
                                                                             used to monitor the quality of service (QoS)
                                                                             provided by network devices and
@@ -4707,7 +4666,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             administrator,IT manager, IT
                                                                                             support staff </small>
@@ -4716,7 +4675,7 @@
                                                                             </div>
                                                                             <p>
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their IT Network monitoring.
                                                                         </small>
@@ -4795,7 +4754,7 @@
                                                                         </small>
                                                                         <br>
                                                                         <small>
-                                                                            <b>Conclusion</b> Trcae9 is a powerful tool
+                                                                            <b>Conclusion</b> Trace9 is a powerful tool
                                                                             that can be used for QoS monitoring to
                                                                             ensure that critical applications are
                                                                             performing at acceptable levels. By
@@ -4826,7 +4785,7 @@
                                                                     <div class="accordion-body">
 
                                                                         <p>
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure that your organization is meeting
                                                                             regulatory and legal requirements?
                                                                             Compliance monitoring is a critical function
@@ -4945,7 +4904,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             administrator,IT manager, IT
                                                                                             support staff </small>
@@ -4954,7 +4913,7 @@
                                                                             </div>
                                                                             <p>
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their IT Network's high-level security
                                                                                 monitoring.
@@ -5084,7 +5043,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you monitor complex IT environments with
                                                                             multiple systems and applications to ensure
                                                                             high availability and performance?
@@ -5116,7 +5075,7 @@
                                                                             degradation.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Without conditional
                                                                             monitoring, organizations are likely to be
                                                                             reactive rather than proactive which means
@@ -5144,7 +5103,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -5154,7 +5113,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the root cause.
                                                                             </p>
@@ -5286,7 +5245,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you determine the root cause of an issue
                                                                             quickly in large-scale IT environments? In
                                                                             large-scale IT environments, multiple events
@@ -5328,7 +5287,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -5338,7 +5297,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the root cause.
                                                                             </p>
@@ -5459,7 +5418,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you gain complete visibility into the health
                                                                             and performance of your services? In today’s
                                                                             complex IT environments, services are
@@ -5500,7 +5459,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">CIO, CTO,
                                                                                             Service Manager, IT
                                                                                             Managers, IT administrator,
@@ -5511,7 +5470,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the root cause with true
                                                                                 service visibility.
@@ -5660,7 +5619,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure that your IT infrastructure can
                                                                             support your business operations? In today’s
                                                                             digital world, organizations rely heavily on
@@ -5686,7 +5645,7 @@
                                                                             for future capacity needs.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Most mid to large
                                                                             enterprises are focused on their business
                                                                             and overlook capacity or performance
@@ -5700,7 +5659,7 @@
                                                                             proper explanations.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            Trcae9 provides capacity monitoring
+                                                                            Trace9 provides capacity monitoring
                                                                             capabilities that allow organizations to
                                                                             monitor their IT infrastructure along with
                                                                             key software licensing capacity and ensure
@@ -5717,17 +5676,17 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> CIO,
                                                                                             CTO, IT Management, IT
                                                                                             administrator, IT manager,
-                                                                                            IT support staff </small>
+                                                                                            IT support staff. </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their IT infrastructure and software
                                                                                 licensing.
@@ -5738,7 +5697,7 @@
 
                                                                         <small>
                                                                             <strong>
-                                                                                Here are some examples of how Trcae9 can
+                                                                                Here are some examples of how Trace9 can
                                                                                 be used for capacity monitoring:
                                                                                 <br>
                                                                             </strong>
@@ -5749,7 +5708,7 @@
                                                                                 Resource Utilization <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can monitor the utilization of
+                                                                                Trace9 can monitor the utilization of
                                                                                 various IT resources, including CPU,
                                                                                 memory, disk space, network bandwidth,
                                                                                 licensing, and others. By monitoring
@@ -5765,7 +5724,7 @@
                                                                                 Performance Metrics <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can monitor performance metrics,
+                                                                                Trace9 can monitor performance metrics,
                                                                                 such as response time, throughput, and
                                                                                 transaction rates. By monitoring these
                                                                                 metrics, organizations can identify
@@ -5782,7 +5741,7 @@
                                                                                 Trend Analysis <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can perform trend analysis on
+                                                                                Trace9 can perform trend analysis on
                                                                                 capacity metrics, helping organizations
                                                                                 predict future capacity requirements.
                                                                                 Trend analysis can identify when
@@ -5798,7 +5757,7 @@
                                                                                 Capacity Planning: <br>
                                                                             </strong>
                                                                             <small>
-                                                                                Trcae9 can help organizations plan for
+                                                                                Trace9 can help organizations plan for
                                                                                 future capacity requirements by
                                                                                 providing information on resource usage
                                                                                 trends and capacity utilization levels.
@@ -5822,7 +5781,7 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b> Trcae9's capacity
+                                                                            <b>Conclusion</b> Trace9's capacity
                                                                             monitoring capabilities can help
                                                                             organizations optimize resource usage,
                                                                             identify bottlenecks, plan for future
@@ -5855,7 +5814,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure that your servers are running
                                                                             efficiently and effectively? Server
                                                                             monitoring is crucial for ensuring that the
@@ -5877,10 +5836,10 @@
                                                                             do just that. With Trace9, you can monitor
                                                                             key metrics such as CPU usage, memory
                                                                             utilization, disk space, network traffic,
-                                                                            and application performance.
+                                                                             application performance.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can be used to
                                                                             monitor the availability and performance of
                                                                             servers in your organization's
@@ -5900,7 +5859,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -5910,7 +5869,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Server and storage monitoring.
                                                                             </p>
@@ -6019,7 +5978,7 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b> server monitoring with
+                                                                            <b>Conclusion </b> server monitoring with
                                                                             Trace9 provides organizations with a
                                                                             comprehensive view of their server
                                                                             performance and enables them to take
@@ -6053,7 +6012,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement: </strong> How can
                                                                             you ensure the smooth functioning of your
                                                                             applications and avoid any delay or
                                                                             downtime? Application performance is
@@ -6082,7 +6041,7 @@
                                                                             database performance, and network latency.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can also be used to
                                                                             monitor the availability and performance of
                                                                             applications running on your servers. This
@@ -6102,7 +6061,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted">IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -6112,7 +6071,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their finding the application
                                                                                 monitoring.
@@ -6261,7 +6220,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you optimize your server resources by using
                                                                             virtualization technology? Virtualization
                                                                             technology allows you to create multiple
@@ -6290,7 +6249,7 @@
                                                                             resolve performance issues quickly.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can monitor
                                                                             virtualization platforms like VMware, KVM,
                                                                             and Hyper-V. With Trace9, you can monitor
@@ -6307,7 +6266,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrators,
                                                                                             IT manager, IT support staff
@@ -6317,13 +6276,13 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Virtualization Monitoring.
                                                                             </p>
 
                                                                             <p class="mb-2">
-                                                                                The organization has deployed Trcae9 as
+                                                                                The organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Virtualization Monitoring.
                                                                             </p>
@@ -6467,7 +6426,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you manage your containerized environments
                                                                             more effectively? Containerization is a
                                                                             process that allows you to run your
@@ -6493,7 +6452,7 @@
                                                                             that.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can also monitor
                                                                             container-based infrastructure like Docker
                                                                             and Kubernetes. Trace9 provides the
@@ -6507,7 +6466,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -6517,7 +6476,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Container Monitoring.
                                                                             </p>
@@ -6665,7 +6624,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you keep an eye on the performance and
                                                                             availability of your cloud-based resources?
                                                                             Cloud infrastructure monitoring involves
@@ -6693,7 +6652,7 @@
                                                                             and Google Cloud Platform.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to With the help of plugins,
                                                                             Trace9 can also monitor cloud infrastructure
                                                                             platforms like Amazon Web Services (AWS),
@@ -6712,7 +6671,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staf
@@ -6722,7 +6681,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Cloud PLatfrom Monitoring.
                                                                             </p>
@@ -6870,7 +6829,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you make sense of the massive amount of log
                                                                             data that your organization generates? Log
                                                                             data is the record of events that happen in
@@ -6895,7 +6854,7 @@
                                                                             and alert IT teams about potential issues.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Trace9 can also be used to
                                                                             monitor logs generated by servers and
                                                                             applications. With Trace9, you can set up
@@ -6912,7 +6871,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
                                                                                             IT manager, IT support staff
@@ -6922,7 +6881,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their Log Monitoring.
                                                                             </p>
@@ -7066,7 +7025,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure that your value chain is running
                                                                             smoothly and efficiently? Your value chain
                                                                             is the set of activities that create and
@@ -7086,12 +7045,10 @@
                                                                             that. It monitors and analyzes data from
                                                                             multiple sources, such as sensors, ERP
                                                                             systems, and other mission critical
-                                                                            services. This solution helps you identify
-                                                                            and eliminate bottlenecks, optimize your IT,
-                                                                            and enhance your IT
+                                                                            services. This solution helps you identify bottlenecks, so you and optimize and enhance your IT.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Do you want to make your
                                                                             own process-based dashboards? Notifications
                                                                             at the process or sub-process level? On a
@@ -7116,7 +7073,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> CIT,
                                                                                             CTO, IT Management, IT
                                                                                             Managers, IT administrator,
@@ -7127,7 +7084,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their value Chain Monitoring.
                                                                             </p>
@@ -7302,7 +7259,7 @@
                                                                     data-bs-parent="#accordionExample">
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
-                                                                            <strong>Problem Statement</strong> How can
+                                                                            <strong>Problem Statement:</strong> How can
                                                                             you ensure that your IT systems are
                                                                             performing well, available, and secure
                                                                             without spending too much time and effort on
@@ -7332,7 +7289,7 @@
                                                                             IT team’s productivity.
                                                                         </p>
                                                                         <p class="mb-2">
-                                                                            This use case describes how Trcae9 enables
+                                                                            This use case describes how Trace9 enables
                                                                             organizations to Monitoring Automation is a
                                                                             big challenge in the IT industry and that's
                                                                             why silos of tools run under one IT and are
@@ -7349,7 +7306,7 @@
                                                                                 <div
                                                                                     class="l_side d-flex align-items-center">
                                                                                     <a href="#">
-                                                                                        Actors:<small
+                                                                                        Actors: <small
                                                                                             class="text-muted"> CIT,
                                                                                             CTO, IT Management, IT
                                                                                             Managers, IT administrator,
@@ -7360,7 +7317,7 @@
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trcae9 as
+                                                                                organization has deployed Trace9 as
                                                                                 their unified monitoring solution for
                                                                                 their value Chain Monitoring.
                                                                             </p>
@@ -7939,7 +7896,7 @@
                                                     HCI Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -7961,7 +7918,7 @@
                                                     Advanced Virtualization Monitor
                                                 </td>
                                                 <td valign="middle" colspan="5">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                             </tr>
                                             <tr>
@@ -7969,7 +7926,7 @@
                                                     Log Management
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -7991,7 +7948,7 @@
                                                     Software License Monitoring
                                                 </td>
                                                 <td valign="middle" colspan="5">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                             </tr>
 
@@ -8000,7 +7957,7 @@
                                                     ITSM Integration
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -8022,7 +7979,7 @@
                                                     Network xFlow
                                                 </td>
                                                 <td valign="middle" colspan="5">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                             </tr>
                                             <tr>
@@ -8030,10 +7987,10 @@
                                                     NF Virtualization Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will requir
+                                                    NS & version upgrade will requir
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>
@@ -8052,7 +8009,7 @@
                                                     SD-WAN Performance Monitor
                                                 </td>
                                                 <td valign="middle">
-                                                    NS & Version upgrade will require
+                                                    NS & version upgrade will require
                                                 </td>
                                                 <td valign="middle">
                                                     <i class="fa fa-times"></i>

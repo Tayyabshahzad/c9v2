@@ -93,8 +93,7 @@
                     <div class="row gx-0">
                         <div class="col-lg-6">
                             <div class="info">
-                                <h1 class="mb-30" style="font-size: 40px!important;"> <span> Empowering businesses
-                                    </span> With IT-driven Intelligence, Monitoring and innovative Solutions </h1>
+                                <h1 class="mb-30" style="font-size: 40px!important;"> <span> Empowering Businesses </span> With IT-Driven Intelligence, Monitoring, and Innovative Solutions </h1>
                                 <p class="text"> Elevate your business with our top-notch IT solutions, harnessing the
                                     power of innovation and proactive monitoring. Experience the next generation of
                                     innovation & strategic expertise tailored to meet your unique needs.</p>
@@ -104,7 +103,7 @@
                                 </div>
 
                                 <span class="mt-50">
-                                    <a href="">
+                                    <a href="about.php">
                                         <small
                                             class="icon-30 bg-gray rounded-circle color-blue4 d-inline-flex align-items-center justify-content-center me-1">
                                             <i class="fas fa-info"></i>
@@ -123,10 +122,10 @@
                 </div>
                 <img src="assets/img/header/header_4_bubble.png" alt="" class="bubble">
             </div>
-            <img src="assets/img/header/header_4_wave.png" alt="" class="wave">
+            <img src="assets/img/header/header_4_wave.png" alt="" class="wave" style="bottom:-15%!important">
         </header>
 
-        <section class="services   style-1" data-scroll-index="2">
+        <section class="services   style-1" data-scroll-index="2" style="margin-top:7%!important">
             <div class="container">
 
                 <div class="content">
@@ -210,8 +209,8 @@
                                                 </div> 
                                                 <p style="margin-bottom:20px"> Unleash the power of innovation with IOTA Solution, our unique selling point lies in our ability to seamlessly blend cutting-edge technology and personalized strategies. </p>
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   Our use case-driven approach empowers us to dive deep into the specific pain points of customers. </p>
-                                                <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   Get holistic visibility through a single pane of glass and view your entire IT environment - From networks and applications to systems and device.</p> 
-                                                <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   We have top-notch team, people, and process that are committed to excellence in everything they do. </p>  
+                                                <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   Get holistic visibility through a single pane of glass and view your entire IT environment - from networks and applications to systems and device.</p> 
+                                                <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   We have a top-notch team people, and process that are committed to excellence in everything they do. </p>  
                                                 </div>
                                             </div>
                                         </div>
@@ -237,9 +236,9 @@
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>  
                                                 With our dynamic blend of innovation, expertise, and customer satisfaction, we deliver solutions that propel your success. </p>
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   
-                                                Your trusted partner that provides expert consultancy services to help our customers succeed in achieving their goals. </p> 
+                                                We become a trusted partner, providing expert consultancy services to help our customers achieve their goals. </p> 
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>
-                                                We deliver the most viable and effective IT solutions tailored to their unique requirements.
+                                                We deliver the most viable and effective IT solutions tailored to our customers’ unique requirements.
                                                 </p>  
                                                 </div>
                                             </div>
@@ -261,13 +260,13 @@
                                                 <div class="info"> 
                                                 <div class="section-head  style-4">
                                                  
-                                                    <h2 class=""><span> Cognitive </span> ADVANTAGE</h2>
+                                                    <h2 class=""><span> COGNITIVE </span> ADVANTAGE</h2>
                                                 </div> 
-                                                <p style="margin-bottom:20px"> Gain the cognitive advantage with IOTA Solutions, we harness the power of cutting-edge cognitive technologies to drive unparalleled insights, innovation, and business growth. </p>
+                                                <p style="margin-bottom:20px">Gain a cognitive advantage with IOTA Solutions; we harness the power of cutting-edge cognitive technologies and use them to promote unparalleled insights, innovation, and business growth. </p>
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>  
                                                 Unlike other solutions that force you into rigid licensing model, we offer a flexible licensing model that's specifically based on the number of ports. </p>
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>   
-                                                We establish a business process that address all your problems in a single offering solution. </p> 
+                                                We establish a business process that addresses all your problems in a single offering solution. </p> 
                                                 <p style="margin-bottom:10px"> <i class="fa fa-circle" style="font-size: 11px;"></i>
                                                 We deliver workshops, training, and full-fledged packages, designed to ensure the success of your organization.</p>  
                                                 </div>
@@ -299,8 +298,7 @@
                                     <strong> Trace9® - The Ultimate Unified IT Monitoring Solution </strong>
                                 </div>
                                 <p class="text mb-20 text-justify" style="text-align:justify" >
-                                    Trace9®4.0 - Unified monitoring solution monitor and manage the health and
-                                    performance of the entire IT infrastructure across physical, virtual, and hybrid IT
+                                    Trace9®4.0 - A unified solution that monitors and manages the health and performance of the entire IT infrastructure across physical, virtual, and hybrid IT
                                     environments. It enables organizations to keep track of and observe the performance
                                     of their networks, servers, databases, cloud, and all other IT assets in their
                                     environment. Get a unified 360-degree monitoring view for complete enterprise IT
@@ -309,7 +307,7 @@
                                 <div class="faq style-3 style-4">
                                     <div class="accordion" id="accordionExample">
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="heading12">
+                                            <h2 class="accordion-header" id="heading_01">
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapse12" aria-expanded="true"
                                                     aria-controls="collapse12">
@@ -320,55 +318,49 @@
                                                 </button>
                                             </h2>
                                             <div id="collapse12" class="accordion-collapse collapse show"
-                                                aria-labelledby="heading1" data-bs-parent="#collapse12">
+                                                aria-labelledby="heading_01" data-bs-parent="#collapse12">
                                                 <div class="accordion-body">
-                                                    Trace9 4.0 offers multiple editions available for customers who need to monitor and manage their own IT infrastructure and applications. You can select the edition that best suits your IT monitoring needs and budget. You can also select the licensing type (perpetual or subscription) that matches your total cost of ownership (TCO).
+                                                    Trace9 4.0 offers multiple editions available for customers who need to monitor and manage their own IT infrastructure and applications. You can select the edition that best suits your IT monitoring needs and budget. Also you can select the licensing type (perpetual or subscription) that matches your total cost of ownership (TCO).
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="heading1">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                    data-bs-target="#collapse1" aria-expanded="true"
-                                                    aria-controls="collapse1">
+                                            <h2 class="accordion-header" id="heading_02">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"   data-bs-target="#collapse_usecase" aria-expanded="false"   aria-controls="collapse_usecase">
                                                     <small  class="d-flex icon-30 bg-gray rounded-circle color-blue4 d-inline-flex align-items-center justify-content-center me-3">
                                                         <i class="fas fa-user"></i> 
                                                     </small> 
                                                     Usecase Driven
                                                 </button>
                                             </h2>
-                                            <div id="collapse1" class="accordion-collapse collapse"
-                                                aria-labelledby="heading1" data-bs-parent="#accordionExample">
+                                            <div id="collapse_usecase" class="accordion-collapse collapse"
+                                                aria-labelledby="heading_02" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    We don't just offer one-size-fits-all solutions; Trace9 use case-driven approach addresses the specific needs and pain points of our valuable customers, and create customized and tailored solution.
+                                                    We don't just offer one-size-fits-all solutions, Trace9’s use case driven approach addresses the specific needs and pain points of our valuable customers, creating a customized and tailored solution.
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="accordion-item">
-                                             
-                                        <h2 class="accordion-header" id="Incident">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapse2"
-                                                    aria-expanded="false" aria-controls="collapse2">
+                                        <div class="accordion-item"> 
+                                            <h2 class="accordion-header" id="heading_03">
+                                                <button class="accordion-button collapsed" type="button"  data-bs-toggle="collapse" data-bs-target="#collapse2"   aria-expanded="false" aria-controls="collapse2">
                                                     <small
                                                         class="d-flex icon-30 bg-gray rounded-circle color-blue4 d-inline-flex align-items-center justify-content-center me-3">
                                                         <i class="fas fa-sitemap"></i>
                                                     </small> 
-                                                    Multi-tenant Architecture for MSPs
-                                                   
+                                                    Multi-tenant Architecture for MSPs 
                                                 </button>
                                             </h2>
                                             <div id="collapse2" class="accordion-collapse collapse"
-                                                aria-labelledby="Incident" data-bs-parent="#accordionExample">
+                                                aria-labelledby="heading_03" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    Trace9 monitor multiple customer’s IT environments from a single
+                                                    Trace9 monitors multiple customer’s IT environments from a single
                                                     dashboard with customer-specific dashboards, alerts and reports.
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="data-retention">
+                                            <h2 class="accordion-header" id="heading_04">
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#dataretention"
                                                     aria-expanded="false" aria-controls="dataretention">
@@ -380,15 +372,15 @@
                                                 </button>
                                             </h2>
                                             <div id="dataretention" class="accordion-collapse collapse"
-                                                aria-labelledby="data-retention" data-bs-parent="#data-retention">
+                                                aria-labelledby="heading_04" data-bs-parent="#data-retention">
                                                 <div class="accordion-body">
-                                                    Trace9 offers flexible Perpetual and Subscription based licensing models.
+                                                    Trace9 offers flexible perpetual and subscription based licensing models.
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="Multi-vendor"> 
+                                            <h2 class="accordion-header" id="heading_05"> 
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#Multivendor"
                                                     aria-expanded="false" aria-controls="Multivendor">
@@ -401,9 +393,9 @@
                                                 </button>
                                             </h2>
                                             <div id="Multivendor" class="accordion-collapse collapse"
-                                                aria-labelledby="Integration" data-bs-parent="#Multivendor">
+                                                aria-labelledby="heading_05" data-bs-parent="#Multivendor">
                                                 <div class="accordion-body">
-                                                    Trace9 employs a modular approach to provide flexibility, scalability, and extensibility for our valuable customers. The modular approach provides a comparison between different modules of Trace9 Monitoring Solution. It outlines the features, and specifications that distinguish one modular from another. It helps customers make informed decisions about which modules best suits their needs or preferences.
+                                                    Trace9 employs a modular approach to provide flexibility, scalability, and extensibility for our valuable customers. The modular approach provides aa comparison between different modules of the Trace9 Monitoring Solution. It outlines the features and specifications that distinguish one modular from another. It helps customersmake informed decisions about which module best suits their needs or preferences.
                                                 </div>
                                             </div>
                                         </div>
@@ -433,12 +425,7 @@
                                     <strong> Amygdala XDR® - Extended Detection, Response & Compliance Monitoring Solution </strong>
                                 </div>
                                 <p class="text mb-20"  style="text-align:justify" > 
-                                    Amygdala XDR is an open-source security detection, visibility, and compliance platform
-                                    that enables organizations to protect their IT infrastructure from potential threats
-                                    and actively respond to security threats in real time. It provides real-time threat detection, incident response capabilities, and
-                                    centralized logging and analysis of security events across an organization's IT
-                                    infrastructure, including servers, endpoints, cloud environments, containers, and
-                                    networks.
+                                Amygdala XDR is an open-source security detection, visibility, and compliance platform that enables organizations to protect their IT infrastructure from potential threats and actively respond to security threats in real-time. It provides centralized logging and analysis of security events across an organization's IT infrastructure, including servers, endpoints, cloud environments, containers, and networks.
                                 </p>
                                 <div class="faq style-3 style-4">
                                     <div class="accordion" id="accordionExample">
@@ -515,7 +502,7 @@
                                                 <div class="accordion-body">
                                                     Amygdala XDR offers compliance monitoring capabilities that assist
                                                     organizations in ensuring that they meet the best industry and
-                                                    regulatory standards
+                                                    regulatory standards.
                                                 </div>
                                             </div>
                                         </div> 
@@ -570,7 +557,7 @@
             <div class="container">
                 <div class="section-head text-center style-4 mb-60">
                     <h2 class="mb-20"> Our Top <span> Services </span> </h2>
-                    <p> Experience excellence with our cutting-edge services designed to elevate your business to new heights. </p>
+                    <p>Experience excellence with our cutting-edge services, designed to elevate your business to new heights.</p>
                 </div>
             </div>
             <div class="content">
@@ -637,7 +624,7 @@
                                         <div class="text">
                                             IOTA Solutions DevOps/SecOPs Application Services will enable you to shake
                                             up today's fast-paced business world by delivering outcome-focused,
-                                            unbiased.
+                                            unbiased solutions that drive innovation and efficiency.
                                         </div>
                                     </div>
                                 </a>
@@ -685,8 +672,7 @@
                                         <h5>Data Center Build</h5>
                                         <div class="text">
                                             Our modular, energy-efficient, innovation-driven data center design
-                                            structure will offer great flexibility and enables us to prioritize and meet
-                                            the deadlines.
+                                            structure will offers great flexibility and enables us to prioritize and meet the deadlines.
 
                                         </div>
                                     </div>
@@ -734,7 +720,7 @@
                                     <div class="info">
                                         <h5>Software Support Services</h5>
                                         <div class="text">
-                                            Iota Solution offers software support services to ensure the high
+                                            IOTA Solution offers software support services to ensure the high
                                             availability and reliability of software relevant to evolving business
                                             needs.
                                         </div>
@@ -781,7 +767,7 @@
         <section class="clients section-padding style-5">
             <div class="section-head text-center mb-40 style-5">
                 <div class="section-head text-center  style-4">
-                    <h2 class="mb-20"> Our <span> Success Story </span> so far </h2>
+                    <h2 class="mb-20"> Our <span> Success Story </span> </h2>
                 </div>
             </div>
             <div class="content">
@@ -1131,8 +1117,8 @@
                 </div>
                 
             </div>
-            <img src="assets/img/testimonials/testi7_back.png" alt="" class="img_back slide_up_down">
-            <img src="assets/img/testimonials/testi7_qout.png" alt="" class="testi_qout">
+            <!-- <img src="assets/img/testimonials/testi7_back.png" alt="" class="img_back slide_up_down"> -->
+            <!-- <img src="assets/img/testimonials/testi7_qout.png" alt="" class="testi_qout"> -->
         </section>
  
         <div class="section-head text-center style-4 mt-20 mb-20" style="margin: 10em!important;">
