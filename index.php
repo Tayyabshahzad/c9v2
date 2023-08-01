@@ -14,7 +14,7 @@
     <meta name="author" content="" />
 
     <!-- Title  -->
-    <title>IOTA Solution</title>
+    <title>IOTA Solutions</title>
 
     <!-- Favicon --> 
     <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />

@@ -19,7 +19,7 @@
                                     </div>
                                 </div>
                                 <p class="mb-2 mt-2">
-                                    Trace9 4.0 Value chain monitoring monitors the entire lifecycle of an IT service, from development to deployment to maintenance, in order to optimize efficiency and ensure that the service is meeting business requirements and customer needs. By monitoring the entire value chain and identifying areas for improvement, IT teams can ensure that their services are meeting business requirements, delivering value to customers, and operating efficiently and effectively.
+                                    Trace9 4.0 value chain monitoring monitors the entire lifecycle of an IT service, from development to deployment to maintenance, in order to optimize efficiency and ensure that the service is meeting business requirements and customer needs. By monitoring the entire value chain and identifying areas for improvement, IT teams can ensure that their services are meeting business requirements, delivering value to customers, and operating efficiently and effectively.
                                 </p> 
 
                             </div>
@@ -49,19 +49,7 @@
             </style>
             <div class="content" style="padding-top:2em">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                            <div class="client_card mb-2" data-wow-delay="0"> 
-                                <div class="inf_content"> 
-                                   <div class="section-head style-4 wow fadeInUp"  style="visibility: visible; animation-name: fadeInUp;"> 
-                                        <h2 class="" style="font-size: 1.2em;"> 
-                                             Value Chain Monitoring   
-                                        </h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> 
+                     
 
                     <div class="col-lg-6">
                         <div class="info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
@@ -97,7 +85,7 @@
                                     <th colspan='2'>  
                                             <div class="section-head style-4"> 
                                                 <h2 class="mb-30" style="font-size: 1.5em;"> 
-                                                      Technology Supported   , Protocols, Devices  
+                                                     <span> Technology Supported   , Protocols, Devices </span> 
                                                 </h2>
                                             </div>
                                     </th>

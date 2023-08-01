@@ -28,17 +28,15 @@
                                                                         historical performance data for network devices,
                                                                         interfaces, and applications, and helps to
                                                                         identify and resolve issues before they impact
-                                                                        end-users.
-                                                                    </p>
-                                                                    <p class="mb-2">
-                                                                        Trace9 4.0 is a flexible and scalable monitoring
+                                                                        end-users. Trace9 4.0 is a flexible and scalable monitoring
                                                                         solution that provides administrators with a
                                                                         comprehensive view of their network. It collects
                                                                         data from various sources, including SNMP, WMI,
                                                                         NetFlow, sFlow, and packet capture, and provides
                                                                         customizable alerts, reports, and integration
-                                                                        options
+                                                                        options.
                                                                     </p>
+ 
 
                                                                 </div>
                                                             </div>
@@ -52,7 +50,7 @@
                                                                         </h2>
                                                                     </div>  
                                                                     <p class=" mt-2">
-                                                                        The key features of Network Performance
+                                                                        The key features of Network performance
                                                                         Monitoring include:
                                                                     </p>
 
@@ -96,7 +94,7 @@
                                                                                         and bandwidth utilization. These
                                                                                         insights help IT teams optimize
                                                                                         network performance and improve
-                                                                                        user experience
+                                                                                        user experience.
                                                                                     </span>
                                                                                 </div>
                                                                             </div>
@@ -164,8 +162,7 @@
                                                                     <p class="mt-10"> <i
                                                                             class="fas fa-check-circle color-blue5 me-2"></i>
                                                                         <strong class="color-000">Network Device
-                                                                            monitoring: </strong> Trace9 4.0 Network
-                                                                        performance module provides real-time monitoring
+                                                                            monitoring: </strong> Provides real-time monitoring
                                                                         of network devices such as routers, switches,
                                                                         Load balancers, and firewalls, and helps to
                                                                         identify issues related to device health,
@@ -174,8 +171,7 @@
                                                                     <p class="mt-10"> <i
                                                                             class="fas fa-check-circle color-blue5 me-2"></i>
                                                                         <strong class="color-000">Interface monitoring:
-                                                                        </strong>Trace9 4.0 Network performance module
-                                                                        allows administrators to monitor the traffic,
+                                                                        </strong>Allows administrators to monitor the traffic,
                                                                         utilization, errors, and discards on network
                                                                         interfaces and helps to identify issues related
                                                                         to network congestion and bottlenecks. </p>
@@ -183,8 +179,7 @@
                                                                     <p class="mt-10"> <i
                                                                             class="fas fa-check-circle color-blue5 me-2"></i>
                                                                         <strong class="color-000"> Network performance
-                                                                            monitoring: </strong> Trace9 4.0 Network
-                                                                        performance module provides deep packet
+                                                                            monitoring: </strong> Deep packet
                                                                         inspection to monitor application performance
                                                                         and helps to identify issues related to slow
                                                                         application response time, packet loss, and
@@ -193,8 +188,7 @@
                                                                     <p class="mt-10"> <i
                                                                             class="fas fa-check-circle color-blue5 me-2"></i>
                                                                         <strong class="color-000">Alerting and
-                                                                            reporting: </strong> Trace9 4.0 Network
-                                                                        performance module provides customizable alerts
+                                                                            reporting: </strong> Provides customizable alerts
                                                                         and notifications for network events and issues,
                                                                         and generates reports for network performance,
                                                                         availability, and utilization. </p>
@@ -210,7 +204,7 @@
                                                                         <h5 class="fw-bold ">
                                                                             Technology
                                                                             <span class="color-blue4">Supported,
-                                                                                Protocols, Devices </span></h5>
+                                                                                Protocols and Devices </span></h5>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -242,8 +236,7 @@
                                                                      
                                                                      
                                                                     <p class="mt-10"> <i class="fas fa-check-circle color-blue5 me-2"></i>
-                                                                        <strong class="color-000">Module Dependency: </strong> Architecture Dependency - Must enabled the following protocols per
-                                                                        monitoring use case base on business needs</p>
+                                                                        <strong class="color-000">Module Dependency: </strong> Architecture Dependency -Must enable the following protocols per case according to business needs.</p>
                                                                      
 
                                                                     <p class="mb-2 mt-2">
@@ -258,15 +251,14 @@
                                                                                 <th> Answers  </th>
                                                                             </tr>
                                                                             <tr class="text-center">
-                                                                                <td> Is NPM dependent on T9 Editions
+                                                                                <td> Is NPM dependent on T9 Editions?
                                                                                 </td>
-                                                                                <td> Yes, NPM required one of the
-                                                                                    edition (Basic, pro…) </td>
+                                                                                <td> Yes, one of the editions is required. </td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td> Is NPM dependent on another module
                                                                                 </td>
-                                                                                <td> No Its Not </td>
+                                                                                <td>  No, it is not required.  </td>
                                                                             </tr>
 
                                                                         </table>

@@ -4055,21 +4055,13 @@
                                                                         <p class="mb-2">
                                                                             <strong>Solution</strong> Imagine if you
                                                                             could have a powerful and easy-to-use
-                                                                            container monitoring solution that helps you
+                                                                            container monitoring solution that would helps you
                                                                             manage your containerized environments more
                                                                             effectively. Trace9 offers container
                                                                             monitoring services that help you do just
                                                                             that.
                                                                         </p>
-                                                                        <p class="mb-2">
-                                                                            This use case describes how Trace9 enables
-                                                                            organizations to Trace9 can also monitor
-                                                                            container-based infrastructure like Docker
-                                                                            and Kubernetes. Trace9 provides the
-                                                                            capability to monitor container-based
-                                                                            applications' availability and performance,
-                                                                            as well as the underlying infrastructure.
-                                                                        </p>
+                                                                        
 
                                                                         <small>
                                                                             <div
@@ -4080,7 +4072,7 @@
                                                                                         Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
@@ -4093,8 +4085,9 @@
                                                                             </p>
 
                                                                             <p class="mb-2">
+                                                                             
                                                                                 The organization has deployed Trace9 as
-                                                                                their unified monitoring solution for
+                                                                                a unified monitoring solution for
                                                                                 their Container Monitoring. <br />
                                                                                 Here's how you can use Trace9 for
                                                                                 container monitoring
@@ -4197,7 +4190,7 @@
 
 
                                                                         <p>
-                                                                            <b>Conclusion</b> container monitoring with
+                                                                            <b>Conclusion:</b> Container monitoring with
                                                                             Trace9 provides organizations with a
                                                                             comprehensive view of their containerized
                                                                             applications and enables them to take
@@ -4240,7 +4233,7 @@
                                                                             virtual machines (VMs) on a single physical
                                                                             server. This can help you reduce costs,
                                                                             improve efficiency, and increase
-                                                                            flexibility. But managing virtualized
+                                                                            flexibility. However managing virtualized
                                                                             environments can be challenging, as there
                                                                             are multiple VMs running on a single host,
                                                                             and their performance can affect the overall
@@ -4250,10 +4243,9 @@
                                                                         </p>
 
                                                                         <p class="mb-2">
-                                                                            <strong>Solution</strong>:Imagine if you
+                                                                            <strong>Solution</strong>: Imagine if you
                                                                             could have a robust and easy-to-use
-                                                                            virtualization monitoring solution that
-                                                                            helps you monitor and manage your
+                                                                            virtualization monitoring solution that would help you monitor and manage your
                                                                             virtualized environments. Trace9 provides
                                                                             virtualization monitoring capabilities to
                                                                             help you do just that. With Trace9, you can
@@ -4261,15 +4253,7 @@
                                                                             hosts, and clusters, and identify and
                                                                             resolve performance issues quickly.
                                                                         </p>
-                                                                        <p class="mb-2">
-                                                                            This use case describes how Trace9 enables
-                                                                            organizations to Trace9 can monitor
-                                                                            virtualization platforms like VMware, KVM,
-                                                                            and Hyper-V. With Trace9, you can monitor
-                                                                            virtual machines' health and the utilization
-                                                                            of their resources like CPU, memory, disk
-                                                                            usage, and network usage.
-                                                                        </p>
+                                                                        
 
                                                                         <small>
                                                                             <div
@@ -4280,16 +4264,15 @@
                                                                                         Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrator,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
                                                                             <p class="mb-2">
                                                                                 <strong>Preconditions:</strong> The
-                                                                                organization has deployed Trace9 as
-                                                                                their unified monitoring solution for
-                                                                                their Virtualization Monitoring.
+                                                                                organization has deployed Trace9 as a unified monitoring solution for
+                                                                                their virtualization monitoring.
                                                                             </p>
 
                                                                             <p class="mb-2">
@@ -4397,7 +4380,7 @@
                                                                             </p>
                                                                         </div>
                                                                         <small>
-                                                                            <b>Conclusion</b> virtualization monitoring
+                                                                            <b>Conclusion :</b> Virtualization monitoring
                                                                             with Trace9 provides organizations with a
                                                                             comprehensive view of their virtualized
                                                                             infrastructure and enables them to take
@@ -6221,17 +6204,16 @@
                                                                     <div class="accordion-body">
                                                                         <p class="mb-2">
                                                                             <strong>Problem Statement:</strong> How can
-                                                                            you optimize your server resources by using
-                                                                            virtualization technology? Virtualization
+                                                                            you optimize your server resources ? Virtualization
                                                                             technology allows you to create multiple
                                                                             virtual machines (VMs) on a single physical
                                                                             server. This can help you reduce costs,
                                                                             improve efficiency, and increase
-                                                                            flexibility. But managing virtualized
+                                                                            flexibility. However managing virtualized
                                                                             environments can be challenging, as there
                                                                             are multiple VMs running on a single host,
                                                                             and their performance can affect the overall
-                                                                            performance of the system. You need a way to
+                                                                            performance of the system. It is necessary to 
                                                                             monitor and manage virtualized environments
                                                                             to ensure optimal performance.
                                                                         </p>
@@ -6248,15 +6230,7 @@
                                                                             hosts, and clusters, and identify and
                                                                             resolve performance issues quickly.
                                                                         </p>
-                                                                        <p class="mb-2">
-                                                                            This use case describes how Trace9 enables
-                                                                            organizations to Trace9 can monitor
-                                                                            virtualization platforms like VMware, KVM,
-                                                                            and Hyper-V. With Trace9, you can monitor
-                                                                            virtual machines' health and the utilization
-                                                                            of their resources like CPU, memory, disk
-                                                                            usage, and network usage.
-                                                                        </p>
+                                                                         
 
 
 
@@ -6269,7 +6243,7 @@
                                                                                         Actors: <small
                                                                                             class="text-muted"> IT
                                                                                             Managers, IT administrators,
-                                                                                            IT manager, IT support staff
+                                                                                            IT manager, IT support staff.
                                                                                         </small>
                                                                                     </a>
                                                                                 </div>
@@ -6282,18 +6256,16 @@
                                                                             </p>
 
                                                                             <p class="mb-2">
-                                                                                The organization has deployed Trace9 as
-                                                                                their unified monitoring solution for
-                                                                                their Virtualization Monitoring.
+                                                                            The organization has deployed Trace9 as a unified monitoring solution for their Virtualization Monitoring.
                                                                             </p>
                                                                         </small>
 
                                                                         <small>
-                                                                            <strong>
+                                                                             
                                                                                 Here's how you can use Trace9 for
-                                                                                virtualization monitoring:
+                                                                                Virtualization Monitoring:
                                                                                 <br>
-                                                                            </strong>
+                                                                           
                                                                         </small>
 
                                                                         <p class="mb-2 mt-2">
@@ -6388,14 +6360,14 @@
                                                                             </small>
                                                                         </p>
                                                                         <small>
-                                                                            <b>Conclusion</b> virtualization monitoring
+                                                                            <b>Conclusion:</b> Virtualization Monitoring
                                                                             with Trace9 provides organizations with a
                                                                             comprehensive view of their virtualized
                                                                             infrastructure and enables them to take
                                                                             proactive steps to ensure that their
                                                                             virtualized infrastructure is performing
                                                                             optimally. By defining virtualization
-                                                                            metrics, collecting virtualization
+                                                                            metrics, Collecting virtualization
                                                                             performance data, analyzing virtualization
                                                                             performance data, setting thresholds,
                                                                             monitoring virtualization performance, and
@@ -6433,7 +6405,7 @@
                                                                             applications in isolated and lightweight
                                                                             units called containers. This can help you
                                                                             use your resources more efficiently and
-                                                                            deploy your applications more easily. But
+                                                                            deploy your applications more easily. However
                                                                             managing containerized environments can be
                                                                             challenging, as containers are often
                                                                             short-lived and highly dynamic. You need a
@@ -7582,7 +7554,7 @@
                                                             <a href="#"
                                                                 onclick="loadPage('./include/open-shift-monitoring.php')"
                                                                 class="solution-card">
-                                                                <h6> Open Shift Monitoring </h6>
+                                                                <h6> Openshift Monitoring </h6>
                                                                 <span class="icon"> <img
                                                                         src="assets/img/icons/solution/png/png/011-command-line.png"
                                                                         alt="">
@@ -7639,7 +7611,7 @@
                                                         <div class="col-lg-3 col-sm-6">
                                                             <a href="#" onclick="loadPage('./include/integration.php')"
                                                                 class="solution-card">
-                                                                <h6> Value chain Monitoring </h6>
+                                                                <h6> Value Chain Monitoring </h6>
                                                                 <span class="icon"> <img
                                                                         src="assets/img/icons/solution/png/png/015-charging.png"
                                                                         alt="">
